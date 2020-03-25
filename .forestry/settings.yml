@@ -7,8 +7,6 @@ sections:
 - type: document
   path: archive.njk
   label: Archive
-  match: "**/*"
-  read_only: false
 - type: directory
   path: posts
   label: Posts
