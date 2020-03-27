@@ -4,14 +4,18 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: package.json
-  label: Config
+- type: heading
+  label: Content
 - type: directory
   path: posts
   label: Posts
   create: documents
   match: "**/*"
+- type: heading
+  label: Development
+- type: document
+  path: package.json
+  label: package.json
 upload_dir: img
 public_path: "/media"
 front_matter_path: ''
