@@ -3,11 +3,15 @@ layout: layouts/post.njk
 title: Seven Sick Books I Read This Year
 description: Here's seven books I read this year that are real sick. For UX designers,
   product managers and anyone else!
-tags: Design
-date: 2019-12-23T00:00:00Z
+tags:
+- Design
+date: 2019-12-23T00:00:00.000+00:00
 canonical: https://medium.com/swlh/seven-sick-books-i-read-this-year-fa6c67fcd19f
+
 ---
 [_This post was originally published in The Startup._](https://medium.com/swlh/seven-sick-books-i-read-this-year-fa6c67fcd19f)
+
+These are the seven books:
 
 1. [Refactoring UI](https://refactoringui.com/book/) (Adam Wathan and Steve Schoger)
 2. [Laying the Foundations](https://designsystemfoundations.com/) (Andrew Couldwell)
