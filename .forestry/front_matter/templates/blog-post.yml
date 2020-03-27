@@ -17,3 +17,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- posts/hills-the-best-framework-for-determining-where-to-go.md
