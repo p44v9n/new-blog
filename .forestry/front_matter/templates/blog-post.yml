@@ -25,7 +25,8 @@ fields:
 - name: tags
   type: tag_list
   default: []
-  label: tags
+  label: Category
+  description: Choose one, ideally one that's already been used before
 - name: canonical
   type: text
   config:
