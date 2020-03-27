@@ -20,14 +20,6 @@ sections:
   match: "*.md"
   templates:
   - blog-post
-- type: document
-  path: posts/posts.json
-  label: posts.json
-- type: heading
-  label: Development
-- type: document
-  path: package.json
-  label: package.json
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
