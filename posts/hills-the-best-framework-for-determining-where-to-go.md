@@ -7,7 +7,7 @@ tags: Design
 date: 2019-11-25T00:00:00.000+00:00
 
 ---
-[_(This post was originally published in UX Collective.)_](https://uxdesign.cc/how-to-use-hills-to-change-the-world-e8dc0f2821bf?source=friends_link&sk=973eb768d59f17cbf2ed560faa915940)
+[_This post was originally published in UX Collective._](https://uxdesign.cc/how-to-use-hills-to-change-the-world-e8dc0f2821bf?source=friends_link&sk=973eb768d59f17cbf2ed560faa915940)
 
 ![](https://cdn-images-1.medium.com/max/1600/0*rBxFStieb1iMnoJD)
 
