@@ -162,7 +162,7 @@ ol {
   padding-inline-start: 4rem;
 }
 ol li {
-  padding-left: 1rem;
+  padding: 0.5rem 0 0.5rem 1rem;
 }
 
 /* Posts list */
