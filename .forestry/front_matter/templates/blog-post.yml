@@ -22,5 +22,6 @@ fields:
   default: []
   label: tags
 pages:
+- posts/2019-03-27-startup-weekend-oxford.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md
 - posts/seven-sick-books-i-read-this-year.md

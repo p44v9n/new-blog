@@ -2,10 +2,11 @@
 title: Third Time's The Charm
 description: Overview of winning my third Startup Weekend competition
 date: 2019-03-27
-tags: Startup
+tags:
+- Startup
 layout: layouts/post.njk
----
 
+---
 Last weekend I attended *Startup Weekend Oxford: Fintech Edition*. It was the third startup weekend I've attended, having been to one in Oxford two years ago and one in London late last year. I love them — each time I've been, I've met really lovely people, and had fun working on really cool ideas. This time the team that I was a part of won first prize!
 
 ![Our team, the judges and the organisers](https://paavanblog.com/public/img/swox19.jpg)
