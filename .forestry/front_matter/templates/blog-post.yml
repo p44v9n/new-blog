@@ -1,22 +1,27 @@
 ---
 label: Blog post
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/post.njk
+  hidden: true
 - type: text
   name: title
   label: title
 - type: text
   name: description
   label: description
-- type: text
-  name: tags
-  label: tags
 - type: datetime
   name: date
   label: date
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
+- posts/2019-03-27-startup-weekend-oxford.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md
 - posts/seven-sick-books-i-read-this-year.md
