@@ -10,7 +10,9 @@ sections:
   path: posts
   label: Posts
   create: documents
-  match: "**/*"
+  match: "*.md"
+  templates:
+  - blog-post
 - type: heading
   label: Development
 - type: document
