@@ -13,6 +13,10 @@ sections:
   match: "*.md"
   templates:
   - blog-post
+- type: document
+  path: posts/posts.json
+  label: posts.json
+  match: "**/*"
 - type: heading
   label: Development
 - type: document
