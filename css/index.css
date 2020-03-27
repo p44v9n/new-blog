@@ -3,21 +3,32 @@
   --darkred: #7F0036;
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
-  --darkgray: #333;
+  --fadedgray: #6D6565;
+  --darkgray: #111111;
   --navy: #17050F;
   --blue: #082840;
-  --white: #fff;
+  --bgcolor: #fffff8;
 }
 * {
   box-sizing: border-box;
 }
 html,
 body {
-  padding: 0;
-  margin: 0;
+  width: 80%;
+  margin: 0 auto;
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: var(--bgcolor);
+  font-family: "EB Garamond", Garamond, serif;
+}
+h1 {
+  font-size: 48px;
+  font-weight: 500;
+}
+h3 {
+  font-weight: 400;
+  font-style: oblique;
+  font-size: 27px;
 }
 p:last-child {
   margin-bottom: 0;
@@ -27,9 +38,20 @@ p,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
+.tmpl-post {
+  width:80ch;
+}
 p,
 .tmpl-post li {
   line-height: 1.45;
+}
+p, a, li {
+  font-size: 21px;
+  font-weight: 400;
+}
+.lead, h4 {
+  font-size: 27px;
+  font-weight: 400;
 }
 a[href] {
   color: var(--blue);
@@ -38,13 +60,20 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 1rem;
+  padding: 4rem 1rem 1rem 1rem;
 }
 main :first-child {
   margin-top: 0;
 }
+
 header {
-  border-bottom: 1px dashed var(--lightgray);
+  /*border-bottom: 1px dashed var(--lightgray);*/
+  position: fixed;
+  min-height:40px;
+  width: 60%; 
+  background-color: var(--bgcolor);
+  z-index:10;
+  text-align: center;
 }
 header:after {
   content: "";
@@ -61,7 +90,7 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  font-family: Consolas, Courier, monospace;
   line-height: 1.5;
 }
 pre {
@@ -115,7 +144,7 @@ pre {
 }
 
 /* Header */
-.home {
+/*.home {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
@@ -123,34 +152,16 @@ pre {
 }
 .home :link:not(:hover) {
   text-decoration: none;
-}
-
-/* Nav */
-.nav {
-  padding: 0;
-  list-style: none;
-  float: left;
-  margin-left: 1em;
-}
-.nav-item {
-  display: inline-block;
-  margin-right: 1em;
-}
-.nav-item a[href]:not(:hover) {
-  text-decoration: none;
-}
-.nav-item-active {
-  font-weight: 700;
-  text-decoration: underline;
-}
+}*/
 
 /* Posts list */
 .postlist {
-  list-style: none;
   padding: 0;
 }
 .postlist-item {
   counter-increment: start-from -1;
+    list-style: none;
+
 }
 .postlist-item:before {
   display: inline-block;
@@ -176,11 +187,12 @@ pre {
 }
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
-  font-weight: 700;
 }
 
 
 /* Tags */
+
+
 .tag {
   display: inline-block;
   vertical-align: text-top;
@@ -188,8 +200,8 @@ pre {
   font-size: 0.625em; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
-  color: var(--white);
+  background-color: var(--fadedgray);
+  color: var(--bgcolor);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
@@ -223,4 +235,83 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+.home {
+  display:none;
+}
+
+/* Nav */
+
+.nav {
+  padding: 0;
+  list-style: none;
+  display: inline-block;
+}
+.nav-item {
+  display: inline-block;
+  margin-right: 1em;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+.nav-item a {
+    text-decoration: none;
+    color: var(--fadedgray) !important;
+}
+.nav-item a[href]:hover {
+  color: var(--darkgray) !important;
+    text-decoration: underline;
+}
+.nav-item-active a{
+    color: var(--darkgray) !important;
+
+}
+.nav-item-active::before {
+  content: '\b7\a0';
+      color: var(--fadedgray) !important;
+
+}
+
+
+
+/* Mailchimp */
+
+#mc-embedded-subscribe-form {
+  padding:2% 2% 2% 0;
+}
+
+#mc_embed_signup div.mc-field-group input, #mc_embed_signup div.mc-field-group label {
+ font-family: "EB Garamond", Garamond, Times;
+ font-size: 1.4rem;
+ line-height: 2rem;
+ margin-bottom: 16px;
+}
+
+#mc_embed_signup div.mc-field-group input {
+  border:none;
+  background: none;
+  border-bottom:2px solid var(--darkgray);
+  font-style: italic;
+}
+
+#mc_embed_signup div.mc0-field-group input::placeholder {
+  color:var(--fadedgray);
+}
+
+#mc_embed_signup div.mc-field-group input:focus, .button:focus {
+  outline:none;
+}
+
+#mc_embed_signup .button {
+  padding:16px;
+  font-size:1.4rem;
+  border:solid 2px var(--darkgray);
+   font-family: "EB Garamond", Garamond, Times;
+   background-color: var(--bgcolor);
+}
+
+#mc_embed_signup .button:hover, #mc_embed_signup .button:active,  #mc_embed_signup .button:focus {
+  color:var(--bgcolor);
+  background-color: var(--darkgray);
+  cursor:pointer;
 }

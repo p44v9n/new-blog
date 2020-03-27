@@ -5,10 +5,15 @@ eleventyNavigation:
   order: 1
 ---
 
-<h1>Latest 3 Posts</h1>
+<h1>Paavan’s Blog</h1>
+
+<p class="lead">Hey! Welcome to my blog.</p>
+
+<p>Here you’ll find a variety of my writing on topics including design, ux, philosophy, startutps, magic and gardening.</p>
+<p class="lead">Most recent posts:</p>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p><em>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</em></p>

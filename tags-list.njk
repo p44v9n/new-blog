@@ -2,8 +2,8 @@
 permalink: /tags/
 layout: layouts/home.njk
 ---
-<h1>Tags</h1>
-
+<h1>All Tags</h1>
+<p class="lead">Here are all the topics I've written blog posts on. Click on one to see a list of blogposts.</p>
 {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
   <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
