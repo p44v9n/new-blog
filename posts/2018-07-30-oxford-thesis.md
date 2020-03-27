@@ -1,16 +1,16 @@
 ---
 layout: layouts/post.njk
-title: My master's thesis
-description: The introduction to my Master's thesis on theories of representation
+title: My master’s thesis
+description: The introduction to my Master’s thesis on theories of representation
 tags: Philosophy
 date: 2018-07-30
 ---
 
-I recently completed my degree at the University of Oxford. My undergraduate and masters were combined, so I'm only getting one degree, instead of a BA and a Masters separately. The degree title is Master of Computer Science and Philosophy.
+I recently completed my degree at the University of Oxford. My undergraduate and masters were combined, so I’m only getting one degree, instead of a BA and a Masters separately. The degree title is Master of Computer Science and Philosophy.
 
 The fourth year of the course was split into three parts. One third was a 20,000 word thesis; I wrote it comparing an aspect of Advaita Vedanta (*maya* or *avidya*) in the writings of Adi Sankaracharya, with a very similar idea in the philosophy of a German 18th century philosopher called Schopenhauer.
 
-I have included an extract of my thesis below. If you want to read the full thing, please don't hesitate to message me!
+I have included an extract of my thesis below. If you want to read the full thing, please don’t hesitate to message me!
 
 The other two thirds were two modules. For each, I had to sit a 3h45m exam and submit a 5,000 word extended essay. My exams ended up being on the same day (🙁), so a few weeks ago I sat 7h30m of exams in one day, with a small break in the middle for lunch. Below are some photos of me finishing those exams.
 
