@@ -33,9 +33,9 @@ Stick around if you want to hear why I think these books are so sick. And if you
 
 The first three books are about user interface design and design systems.
 
-![](https://cdn-images-1.medium.com/max/1200/1*mtm4QE4zj1x7oDJVL79NQA.png)
+The first, _Refactoring UI_, is a **goldmine** for how to create sick user interfaces for digital products. Here's an excerpt:
 
-The first, _Refactoring UI_, is a **goldmine** for how to create sick user interfaces for digital products.
+![](https://cdn-images-1.medium.com/max/1200/1*mtm4QE4zj1x7oDJVL79NQA.png)
 
 If you’ve ever wondered why one app or website looks ‘well-designed’ or ‘polished’ or even why it ‘pops’ compared to others, but haven’t been able to express it in words, this book explains it.
 
