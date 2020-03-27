@@ -4,9 +4,11 @@ title: 'Hills: the best framework for determining where to go'
 description: A Hill is a framework from the IBM Design Thinking Toolkit that is used
   to focus a product around the value that it delivers.
 tags: Design
-date: 2019-11-25T00:00:00Z
+date: 2019-11-25T00:00:00.000+00:00
 
 ---
+[_(This post was originally published in UX Collective.)_](https://uxdesign.cc/how-to-use-hills-to-change-the-world-e8dc0f2821bf?source=friends_link&sk=973eb768d59f17cbf2ed560faa915940)
+
 ![](https://cdn-images-1.medium.com/max/1600/0*rBxFStieb1iMnoJD)
 
 I was fortunate enough to attend a wonderful talk by Marion Summerfield at a Product Design event last week. While working at IBM, Marion was part of the team that built and taught [design thinking](https://www.ibm.com/design/thinking/page/toolkit). At the event, Marion introduced the group to the concept of Hills.
