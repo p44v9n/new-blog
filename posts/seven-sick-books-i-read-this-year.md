@@ -7,6 +7,8 @@ tags: Design
 date: 2019-12-23T00:00:00Z
 
 ---
+[_This post was originally published in The Startup._](https://medium.com/swlh/seven-sick-books-i-read-this-year-fa6c67fcd19f)
+
 1. [Refactoring UI](https://refactoringui.com/book/) (Adam Wathan and Steve Schoger)
 2. [Laying the Foundations](https://designsystemfoundations.com/) (Andrew Couldwell)
 3. [The Best Interface is No Interface](http://www.nointerface.com/) (Golden Krishna)
