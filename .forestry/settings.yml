@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: archive.njk
-  label: Archive
+  path: package.json
+  label: Config
 - type: directory
   path: posts
   label: Posts
