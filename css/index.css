@@ -21,14 +21,13 @@ body {
   background-color: var(--bgcolor);
   font-family: "EB Garamond", Garamond, serif;
 }
-h1 {
+h1, h2, h3 {
   font-size: 48px;
   font-weight: 600;
   line-height: 80%;
   padding-top: 3rem;
 }
 h2, h3 {
-  font-weight: 600;
   font-size: 27px;
 }
 p:last-child {
@@ -359,4 +358,20 @@ footer {
         padding-inline-start: 1rem;
 
     }
+
+    .postlist-item {
+      padding:1rem 0;
+    }
+    .postlist-link {
+            padding-left: 0;
+
+    }
+    .postlist-date, .postlist-item:before {
+      display: block;
+      text-align: left; 
+    }
+    .tag {
+      margin-left:0;
+    }
+
   }
