@@ -9,7 +9,7 @@ layout: layouts/post.njk
 ---
 Last weekend I attended *Startup Weekend Oxford: Fintech Edition*. It was the third startup weekend I've attended, having been to one in Oxford two years ago and one in London late last year. I love them — each time I've been, I've met really lovely people, and had fun working on really cool ideas. This time the team that I was a part of won first prize!
 
-![Our team, the judges and the organisers](https://paavanblog.com/public/img/swox19.jpg)
+![Our team, the judges and the organisers](/img/swox19.jpg)
 *Our team, the judges and the organisers*
 
 ## What is a Startup Weekend?
@@ -28,7 +28,7 @@ On Sunday, all the teams pitch (for just 5 minutes!) to a panel of judges. Each 
 
 I didn't pitch an idea at the previous two startup weekends I went to. I actually ended up being on teams working on social enterprises at both. The first one was a 'pledge-swapping' app, where users could meet other socially-minded users and commit to (for example) going vegetarian for a week in excahnge for signing up to the Labour party membership. The second idea was about encouraging people to boycott brands that had bad human rights practices and offer ethical alternatives.
 
-![Photo of me answering a question from the judges at Startup Weekend Oxford 2017](https://paavanblog.com/public/img/swox17.jpg)
+![Photo of me answering a question from the judges at Startup Weekend Oxford 2017](/img/swox17.jpg)
 *Photo of me answering a question from the judges at Startup Weekend Oxford 2017.*
 
 So this time around I was keen to pitch an idea, but didn't have anything fleshed out. But I did, however, have a (macro) problem that I thought needed solving. Renting is crazy expensive (especially when living in London in your early 20s) and saving enough to get onto the property ladder while paying so much in rent is nearly impossible.
@@ -57,7 +57,7 @@ So, on Saturday evening, three quarters of the way into the competition, we deci
 
 We 'pivoted'. We came up with and refined a new idea: simplifying co-buying a house.
 
-![Gif of Ross shouting 'pivot' in Friends](https://paavanblog.com/public/img/rosspivot.gif)
+![Gif of Ross shouting 'pivot' in Friends](/img/rosspivot.gif)
 
 Groups of friends in their early 20s who are already renting together can save money by jointly buying a property and paying a mortgage together, and then, in four or five years time, they can sell it and buy somewhere else by themselves or with their significant other.
 
@@ -69,7 +69,7 @@ Although this idea focussed on a completely different problem, it solves the sam
 
 Our team scrambled together a pitch deck, some figures to size the market and present a business case to show it was viable, we put together a quick prototype with Figma (I <3 Figma), and we pitched it. And we won!
 
-![Gif of the Figma prototype of our app](https://paavanblog.com/public/img/fouryearplanprototype.gif)
+![Gif of the Figma prototype of our app](/img/fouryearplanprototype.gif)
 
 ## Lessons learnt
 
@@ -79,7 +79,7 @@ Other lessons: a good pitch and a good prototype really make all the difference.
 
 I feel super lucky to have worked alongside such an amazing team throughout. We all listened to each other, worked collaboratively, and bounced ideas off each other. It was this that eventually allowing us to land on something really great.
 
-![Our team!](https://paavanblog.com/public/img/swox19_2.jpg)
+![Our team!](/img/swox19_2.jpg)
 *Our team!*
 
 Stay tuned for more info about our startup-in-progress!

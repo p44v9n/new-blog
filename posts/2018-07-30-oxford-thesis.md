@@ -14,10 +14,10 @@ I have included an extract of my thesis below. If you want to read the full thin
 
 The other two thirds were two modules. For each, I had to sit a 3h45m exam and submit a 5,000 word extended essay. My exams ended up being on the same day (🙁), so a few weeks ago I sat 7h30m of exams in one day, with a small break in the middle for lunch. Below are some photos of me finishing those exams.
 
-![End of exams](https://paavanblog.com/public/img/exams1.png)
+![End of exams](/img/exams1.png)
 *End of a long day of exams*
 
-![Photo with Peter](https://paavanblog.com/public/img/exams2.png)
+![Photo with Peter](/img/exams2.png)
 *My tutor, Peter, who was the reason I made it through my degree*
 
 ## Thesis Introduction

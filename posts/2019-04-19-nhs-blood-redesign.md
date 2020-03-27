@@ -37,7 +37,7 @@ But in this case, I am, on purpose, choosing not to look at the visual design el
 
 Moreover, I think that (in this specific app that I’ve chosen) the individual design elements are *good*. The app is part of the NHS, which has some [great design and branding guidelines](https://www.england.nhs.uk/nhsidentity/identity-guidelines/colours/), and the blood donation service itself has a really good logo. What does need work is the usability of the app.
 
-![Screenshots taken March 2019](https://paavanblog.com/public/img/bloodredesign1.png)
+![Screenshots taken March 2019](/img/bloodredesign1.png)
 
 So let’s test the usability and see what we can fix!
 
@@ -45,7 +45,7 @@ So let’s test the usability and see what we can fix!
 
 There are lots of ways of researching how users use a product. Usability tests fit into the following category:
 
-![Categories of user research](https://paavanblog.com/public/img/bloodredesign2.png)
+![Categories of user research](/img/bloodredesign2.png)
 
 Instead of focus groups or surveys, which look at what a user reports about their use of a product, a usability test observes the user’s *behaviour*.
 
@@ -129,7 +129,7 @@ Some suggestions specific to thisI gained from my usability testing and heuristi
 
 This actually matches up to lots of the recent reviews on the Play store:
 
-![from Google Play Store, retrieved March 2019](https://paavanblog.com/public/img/bloodredesign3.png)
+![from Google Play Store, retrieved March 2019](/img/bloodredesign3.png)
 
 - Filtering results needed to be easier / it was hard to spot how to apply filters
 - Health and travel information was duplicated in different places in the app
@@ -144,7 +144,7 @@ So one of the main things I add in my new prototype is a persistent bottom navig
 
 ## 6. New protoype and more usability tests
 
-![New prototype](https://paavanblog.com/public/img/bloodredesign4.gif)
+![New prototype](/img/bloodredesign4.gif)
 
 The navigation in this prototype is always on screen, and you can jump to every section from wherever you are.
 

@@ -12,7 +12,7 @@ Last weekend, I went to the first day of [FutureFest](https://www.futurefest.org
 
 The Garden was an installation by London Glades (a pair of 'ecological landscape designers') about re-imagining humanity's relationship with nature, and redefining the idea of 'rewilding.'. And oh what a cool installation it was. Especially considering they'd built the whole thing indoors at Tobacco Docks for the weekend. 
 
-![The Garden](https://paavanblog.com/public/img/garden.jpg)
+![The Garden](/img/garden.jpg)
 
 The installation was divided into four sections: detached, unresolved, inspired and balanced. Visitors could amble through, and throughout the day, tours of the garden as well as short talks were being given in the garden. (One talk was by Åsmund Asdal, the co-ordinator of the Svalbard Global Seed Vault! If you haven't heard of the Seed Vault then you gotta listen to [this podcast about it](https://99percentinvisible.org/episode/the-vault/)).
 

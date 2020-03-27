@@ -32,4 +32,4 @@ Oh wait! There _is_ a plant in the audience. Venture off the stage into the audi
 
 P
 
-![Powerball ticket](https://paavanblog.com/public/img/lottery.jpg)
+![Powerball ticket](/img/lottery.jpg)

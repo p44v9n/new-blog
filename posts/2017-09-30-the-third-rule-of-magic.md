@@ -10,7 +10,7 @@ While working at [Long Lake Camp for the Arts](http://www.longlakecamp.com/), wh
 
 These were by no means objective rules; instead were just ones I'd written myself. I wrote these specifically for helping 8–16 year olds learn how to perform magic well, and to match the tricks I was teaching.
 
-![The Rules](https://paavanblog.com/public/img/rules.jpg)
+![The Rules](/img/rules.jpg)
 
 Most wanted to learn card tricks, presumably due to my background in card magic and the prevalence of card magic in the media. As much as possible I tried to avoid mathematical tricks — while often self-working and therefore easy for children to learn, they have the tendency to be quite dry.
 
