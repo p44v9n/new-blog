@@ -1,12 +1,8 @@
 :root {
-  --red: #C5004A;
-  --darkred: #7F0036;
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
   --fadedgray: #6D6565;
   --darkgray: #111111;
-  --navy: #17050F;
-  --blue: #082840;
   --bgcolor: #fffff8;
 }
 * {
@@ -55,10 +51,10 @@ p, a, li {
   font-weight: 400;
 }
 a[href] {
-  color: var(--blue);
+  color: var(--darkgray);
 }
 a[href]:visited {
-  color: var(--navy);
+  color: var(--fadedgray);
 }
 blockquote {
   font-size: 18px;
