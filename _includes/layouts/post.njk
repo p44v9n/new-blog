@@ -5,6 +5,6 @@ footer: True
 ---
 <h1>{{ title }}</h1>
 
-<p><em>Published on {{ date | readableDate }}.</em></p>
+{%- if date -%} <p><em>Published on {{ date | readableDate }}.</em></p> {%- endif -%}
 
 {{ content | safe }}
