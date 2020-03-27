@@ -4,6 +4,8 @@ description: Case study of a UI Redesign of the NHS Blood Donation app
 date: 2019-04-19
 tags: Design
 layout: layouts/post.njk
+canonical: https://medium.com/@p44v9n/refactoring-the-nhs-blood-donation-app-fa7ec629db91
+
 ---
 
 *[This post was originally published on Medium.](https://medium.com/@p44v9n/refactoring-the-nhs-blood-donation-app-fa7ec629db91)*

@@ -21,6 +21,9 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: canonical
+  type: canonical
+  label: Original URL
 pages:
 - posts/2019-03-27-startup-weekend-oxford.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md

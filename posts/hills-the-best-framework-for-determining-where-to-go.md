@@ -5,7 +5,7 @@ description: A Hill is a framework from the IBM Design Thinking Toolkit that is 
   to focus a product around the value that it delivers.
 tags: Design
 date: 2019-11-25T00:00:00.000+00:00
-
+canonical: https://uxdesign.cc/how-to-use-hills-to-change-the-world-e8dc0f2821bf
 ---
 [_This post was originally published in UX Collective._](https://uxdesign.cc/how-to-use-hills-to-change-the-world-e8dc0f2821bf?source=friends_link&sk=973eb768d59f17cbf2ed560faa915940)
 
