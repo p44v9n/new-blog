@@ -1,5 +1,6 @@
 ---
 layout: layouts/home.njk
+title:
 eleventyNavigation:
   key: Home
   order: 1
@@ -10,7 +11,8 @@ eleventyNavigation:
 <p class="lead">Hey! Welcome to my blog.</p>
 
 <p>Here you’ll find a variety of my writing on topics including design, ux, philosophy, startutps, magic and gardening.</p>
-<p class="lead">Most recent posts:</p>
+<Hr />
+<p>Most recent posts:</p>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
