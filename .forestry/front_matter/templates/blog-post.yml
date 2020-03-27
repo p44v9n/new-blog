@@ -26,10 +26,6 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: footer
-  type: boolean
-  label: Show footer
-  default: true
 - name: canonical
   type: text
   config:
