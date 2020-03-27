@@ -19,7 +19,7 @@ body {
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--bgcolor);
-  font-family: "EB Garamond", Garamond, serif;
+  font-family: 'EB Garamond', Garamond, serif;
 }
 h1, h2, h3 {
   font-size: 48px;
@@ -296,7 +296,7 @@ footer {
 }
 
 #mc_embed_signup div.mc-field-group input, #mc_embed_signup div.mc-field-group label {
- font-family: "EB Garamond", Garamond, Times;
+ font-family: 'EB Garamond', Garamond, Times;
  font-size: 1.4rem;
  line-height: 2rem;
  margin-bottom: 16px;
@@ -307,6 +307,8 @@ footer {
   background: none;
   border-bottom:2px solid var(--darkgray);
   font-style: italic;
+     font-family: 'EB Garamond', Garamond, Times;
+
 }
 
 #mc_embed_signup div.mc0-field-group input::placeholder {
@@ -321,7 +323,7 @@ footer {
   padding:16px;
   font-size:1.4rem;
   border:solid 2px var(--darkgray);
-   font-family: "EB Garamond", Garamond, Times;
+   font-family: 'EB Garamond', Garamond, Times;
    background-color: var(--bgcolor);
 }
 
