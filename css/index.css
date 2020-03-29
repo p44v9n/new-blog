@@ -339,12 +339,21 @@ footer {
 }
 
 
+
+
+/* Darkmode button styles */
+
 .darkmode-layer, .darkmode-toggle {
   z-index: 20;
 }
 #darkmodecaption {
   position: fixed;
   bottom: 20px; right:90px;
+}
+
+/* Ignore images when darkmode */
+body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
+  mix-blend-mode: difference;
 }
 
 /* Responsive styles */
@@ -390,5 +399,7 @@ footer {
     #darkmodecaption {
       display: none;
     }
-
+    img {
+  max-width: 100%;
+}
   }

@@ -16,4 +16,4 @@ I graduated from the University of Oxford with a master’s degree in Computer S
 
 The source code for this blog is available on [GitHub](https://github.com/p44v9n/new-blog/).
 
-<a href="https://twitter.com/p44v9n?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-dnt="true" data-show-count="false">Follow @p44v9n</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<span class="darkmode-ignore"><a href="https://twitter.com/p44v9n?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="en" data-dnt="true" data-show-count="false">Follow @p44v9n</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></span>

@@ -81,7 +81,7 @@
 
 {%- if darkmodecaption-%}
 
-<p id="darkmodecaption"><em>Click here to turn <span class="onoff">on</span> the lights</em></p>
+<p id="darkmodecaption"><em>Flip the light switch</em></p>
 
 {%- endif -%}
 
@@ -97,10 +97,12 @@
 </script> -->
 
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
-<script>
+<script type='text/javascript'>
   var options = {
     time: '0.4s',
-    label: 'OFF',
+    label: '',
+    buttonColorDark: '#111111',
+    buttonColorLight: '#FFFFF8'
   };
   const darkmode = new Darkmode(options);
   darkmode.showWidget();
