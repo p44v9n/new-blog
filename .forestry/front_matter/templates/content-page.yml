@@ -5,12 +5,18 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: layouts/post.njk
+  hidden: true
+  config:
+    required: true
 - type: text
   name: title
   label: title
 - type: text
   name: templateClass
   label: templateClass
+  hidden: true
+  default: tmpl-post
 - type: field_group
   name: eleventyNavigation
   label: Navigation Hierarchy
