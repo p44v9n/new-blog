@@ -12,16 +12,22 @@ fields:
     required: true
 - type: text
   name: title
-  label: title
+  label: Title
   config:
     required: true
     max: '60'
 - type: text
   name: description
-  label: description
+  label: Description
+  description: Describe what the post is about in a setence
 - type: datetime
   name: date
-  label: date
+  label: Published Date
+  description: Appears under the title and is used to order all posts
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+  default: now
 - name: tags
   type: tag_list
   default: []
@@ -31,8 +37,9 @@ fields:
   type: text
   config:
     required: false
-  label: Originally posted
-  description: must be a URL
+  description: If this is a duplicate of a post somewhere else. Must be a URL as this
+    gets added as canonical URL for SEO purposes.
+  label: Location originally posted
 pages:
 - drafts/do-u-x-believe-in-magic.md
 - drafts/how-to-write-a-book-in-a-month.md
