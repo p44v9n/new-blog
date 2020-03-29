@@ -5,8 +5,9 @@ templateClass: tmpl-post
 eleventyNavigation:
   key: About Paavan
   order: 3
-
+darkmodecaption: True
 ---
+
 #### Hey! I’m Paavan. I’m a product designer.
 
 In my spare time, I’m a magician, an illustrator, an animator, and someone who really loves gardening.

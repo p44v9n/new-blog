@@ -14,11 +14,14 @@ body {
   color: var(--darkgray);
   background-color: var(--bgcolor);
   font-family: 'EB Garamond', Garamond, serif;
-  padding-bottom: 6rem;
+  margin: 0;
 }
 .container {
   width: 60%;
   margin: 0 auto;
+}
+.page {
+  padding-bottom: 6rem;
 }
 h1, h2, h3 {
   font-size: 48px;
@@ -336,6 +339,13 @@ footer {
 }
 
 
+.darkmode-layer, .darkmode-toggle {
+  z-index: 20;
+}
+#darkmodecaption {
+  position: fixed;
+  bottom: 20px; right:90px;
+}
 
 /* Responsive styles */
 
@@ -376,6 +386,9 @@ footer {
     }
     .tag {
       margin-left:0;
+    }
+    #darkmodecaption {
+      display: none;
     }
 
   }

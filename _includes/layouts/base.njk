@@ -15,6 +15,7 @@
   {%- endif -%}
 </head>
 <body>
+  <div class="page">
   <header>
     <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
 
@@ -74,9 +75,35 @@
   <p><a href="{{ '/' | url }}">← Home</a></p>
 
 </footer>
+</div>
+
+{%- endif -%}
+
+{%- if darkmodecaption-%}
+
+<p id="darkmodecaption"><em>Click here to turn <span class="onoff">on</span> the lights</em></p>
 
 {%- endif -%}
 
 <!-- Current page: {{ page.url | url }} -->
 </body>
+
+<!-- <script>
+  var options = {
+    time: '0.1s',
+    label: '💡',
+  }
+  new Darkmode.showWidget();
+</script> -->
+
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.5/lib/darkmode-js.min.js"></script>
+<script>
+  var options = {
+    time: '0.4s',
+    label: 'OFF',
+  };
+  const darkmode = new Darkmode(options);
+  darkmode.showWidget();
+</script>
+
 </html>
