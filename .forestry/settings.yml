@@ -5,9 +5,8 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: aboout/index.md
+  path: about/index.md
   label: About Paavan
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
