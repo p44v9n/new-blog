@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 tags: []
-title: Rebranding the world's biggest ski trip
+title: Rebranding the world’s biggest ski trip
 description: An overview of the work that went into designing Varsity Trip 2018
 date: 2019-02-04T00:00:00Z
 canonical: ''
@@ -9,7 +9,7 @@ canonical: ''
 ---
 Around this time last year I was asked to be on the committee for an event called Varsity Trip 2018, as the Design Director. In the following post I explain what I did over the course of year, between February and December 2018.
 
-## What is Varsity Trip
+## What is Varsity Trip?
 
 Varsity Trip is the world’s largest student snowsports trip. Students from Oxford and Cambridge go skiing or snowboarding for the week after the first term of the year ends. The first trip was in 1922, meaning that the trip is older than the Winter Olympics, and is rapidly approaching its hundredth anniversary.
 
@@ -33,7 +33,7 @@ I also created an animated version, making use of the excellent animated typefac
 
 ![](https://d33wubrfki0l68.cloudfront.net/8592da9d678612cad2c46f78c1010af251bb094a/d61b6/images/work/varsity-trip/animated-logo.gif)
 
-In the last ten years, previous committees have used a variety of fonts. These included fonts that had been commissioned (e.g. Bebas VT and Times New Snowman) as well as other free fonts. The 2017 trip used a condensed bold version of Tw Cen MT for headings. I chose to replace this with [League Spartan from The League of Movable Type](?), as it has better kerning, a wider range of letter support, and an animated version. For the body font we used Google’s open-source slab serif, Roboto Slab.
+In the last ten years, previous committees have used a variety of fonts. These included fonts that had been commissioned (e.g. Bebas VT and Times New Snowman) as well as other free fonts. The 2017 trip used a condensed bold version of Tw Cen MT for headings. I chose to replace this with [League Spartan](?), as it has better kerning, a wider range of letter support, and an animated version. For the body font we used Google’s open-source slab serif, Roboto Slab.
 
 Our team also opted for a cleaner approach than previous years, primarily making use of a bright orange to complement the navy blue . We made extensive use of bold, sans-serif fonts, flat vector illustration and bright colours, to move the brand away from the murkier green and blue colours and the texture-heavy sketchy style of previous years.
 
