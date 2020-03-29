@@ -13,7 +13,7 @@ fields:
   label: templateClass
 - type: field_group
   name: eleventyNavigation
-  label: eleventyNavigation
+  label: Navigation Hierarchy
   fields:
   - type: text
     name: key
