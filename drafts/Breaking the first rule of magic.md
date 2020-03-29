@@ -1,4 +1,9 @@
++++
+title = "Breaking the first rule of magic"
+
++++
 Breaking the first rule of magic
 
-Sherpa
-Watch loadq
+Showing people what a Sherpa is
+
+Watch load?
