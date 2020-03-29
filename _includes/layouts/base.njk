@@ -11,8 +11,8 @@
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="/img/favicon.png">
   {%- if canonical -%}
-    <link rel="canonical" href="{{ canonical }}">
-    {%- endif -%}
+  <link rel="canonical" href="{{ canonical }}">
+  {%- endif -%}
 </head>
 <body>
   <header>
@@ -25,12 +25,11 @@
       {%- endfor %}
     </ul>
   </header>
-
-  <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-
-
-  {{ content | safe }}
-</main>
+  <div class="container">
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {{ content | safe }}
+    </main>
+</div>
 
 {%- if footer -%} 
 
