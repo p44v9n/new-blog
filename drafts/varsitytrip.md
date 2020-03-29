@@ -69,10 +69,40 @@ To produce everything, we worked closely with:
 3. the ski trip fulfilment company (NUCO)
 4. the resort's tourist office (Club Val Thorens)
 
-_Selected mockups of apparel (stash):_
+Here are some of the mockups of stash:
 
-## Other merchandise
+![](https://d33wubrfki0l68.cloudfront.net/c01dc023f0a460dfb76c44f063692019e2fb9fc1/4d6f8/images/work/varsity-trip/stash-1.png)
 
-\## Posters and social media
+And some of the model shots:
 
-## Conclusion
+![](https://d33wubrfki0l68.cloudfront.net/9fc8197aaac85107db158d7885071e8aac5478a6/4bcf6/images/work/varsity-trip/stash-2.jpg)
+
+And some of the merch produced:
+
+![](https://d33wubrfki0l68.cloudfront.net/dc39b7ae9af853eb5b0f1df6126b93323ae8d0e5/69573/images/work/varsity-trip/merch-1.jpg)
+
+## Illustration
+
+Across the project, I created a set of vector illustrations. Each could be split into components and re-used across a wide range of media.
+
+Lots of these were used for online social media posts; examples of these are below:
+
+![](https://d33wubrfki0l68.cloudfront.net/7fde9cabb578c498a8205ebd7809fb310a692c81/f46db/images/work/varsity-trip/social-media-1.png)
+
+![](https://d33wubrfki0l68.cloudfront.net/15334181843e5506aa72065d4aaf1cee378ed8e8/8e691/images/work/varsity-trip/social-media-2.png)
+
+![](https://d33wubrfki0l68.cloudfront.net/1a878fd43b6aa4368a15f65a3013e9607cc8eb47/9560e/images/work/varsity-trip/social-media-3.png)
+
+These illustrations were also used in some of the physical items I designed, such as in welcome booklets, sound-stage banners and accommodation signs in resort.
+
+![](https://d33wubrfki0l68.cloudfront.net/1331a599ca5f194b6fcd2c1c12b117acfd158cd5/65a2a/images/work/varsity-trip/apres-stage.jpg)
+
+## Learnings
+
+The sheer quantity of designed elements that needed to feel cohesive meant that I very quickly learnt to design efficiently and re-use elements where possible.
+
+All the illustrations I designed could be split into layers, allowing them to be reused throughout in different combinations, so as to always feel 'original'. I also created templates in Photoshop so other members of the committee could make announcement posts on Facebook that still felt 'on-brand,' and meant that I didn't have to do it all.
+
+Designing for Varsity Trip was a lot of work, but it was also a huge honour.
+
+Rocking up to the Alps in December to see 15ft banners with my illustrations, covering the speakers of a huge outdoor stage, and then a day later have over 3000 students arrive wearing t-shirts I'd designed, was pretty magical.
