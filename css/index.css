@@ -262,6 +262,7 @@ a[href].direct-link:focus:visited,
   font-variant: small-caps;
 }
 .nav-item a {
+  font-weight: 600;
     text-decoration: none;
     color: var(--fadedgray) !important;
 }
