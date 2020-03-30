@@ -3,7 +3,7 @@ layout: layouts/post.njk
 tags: []
 title: Rebranding the world’s biggest ski trip
 description: An overview of the work that went into designing Varsity Trip 2018
-date: 2019-02-04T00:00:00Z
+date: 2019-02-04T00:00:00.000+00:00
 canonical: ''
 
 ---
@@ -106,3 +106,5 @@ All the illustrations I designed could be split into layers, allowing them to be
 Designing for Varsity Trip was a lot of work, but it was also a huge honour.
 
 Rocking up to the Alps in December to see 15ft banners with my illustrations, covering the speakers of a huge outdoor stage, and then a day later have over 3000 students arrive wearing t-shirts I’d designed, was pretty magical.
+
+![](/img/ezgif-2-da489402b130.gif)
