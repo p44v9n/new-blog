@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 date: 2020-04-01T13:21:25Z
 tags: []
-title: the eorld after coronavirus Future
+title: the world after coronavirus
 description: ''
 canonical: ''
 
