@@ -13,8 +13,8 @@ Last year I had the opportunity to give a talk that was an introduction to user 
 
 There are three areas in particular where both are similar, and where knowledge as a magician can help inform how to create the best experience for users of a digital product. They are:
 
-1. Telling a **story** or having a narrative journey
-2. Controlling and directing **attention**
-3. Giving an experience of **wonder**
+1. Telling a **story** or having a narrative journey.
+2. Controlling and directing **attention**.
+3. Giving an experience of **wonder**.
 
 You can watch a full recording of me giving the talk here:
