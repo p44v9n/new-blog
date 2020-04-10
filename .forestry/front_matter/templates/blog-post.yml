@@ -32,7 +32,8 @@ fields:
   type: tag_list
   default: []
   label: Category
-  description: Choose one, ideally one that's already been used before
+  description: 'Choose one of the following: Design / Personal / Magic / Philosophy
+    / Dev / Startup'
 - name: canonical
   type: text
   config:
