@@ -24,3 +24,5 @@ I've given this talk at:
 
 * Design Lab in London in September 2019
 * Horizons (AND Digital) in Leeds in October 2019
+
+[Find out more about me as a speaker here.](https://paavandesign.com/talks "Paavan as a speaker")
