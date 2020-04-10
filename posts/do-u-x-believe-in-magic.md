@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 date: 2020-01-22T14:07:05Z
-tags: []
+tags:
+- Design
 title: Do U(X) believe in magic?
 description: A talk by Paavan about the intersection of magic and user experience
   design.
