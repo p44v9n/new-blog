@@ -21,7 +21,8 @@ body {
   margin: 0 auto;
 }
 .page {
-  padding-bottom: 6rem;
+    padding-bottom: 5vh;
+    min-height: 95vh;
 }
 h1, h2, h3 {
   font-size: 48px;
