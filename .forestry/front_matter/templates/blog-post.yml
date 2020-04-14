@@ -32,7 +32,8 @@ fields:
   type: tag_list
   default: []
   label: Category
-  description: Choose one, ideally one that's already been used before
+  description: 'Choose one of the following: Design / Personal / Magic / Philosophy
+    / Dev / Startup'
 - name: canonical
   type: text
   config:
@@ -41,9 +42,9 @@ fields:
     gets added as canonical URL for SEO purposes.
   label: Location originally posted
 pages:
-- drafts/do-u-x-believe-in-magic.md
 - drafts/future.md
 - drafts/how-to-write-a-book-in-a-month.md
 - drafts/what-i-learnt-from-my-fringe-show.md
+- posts/do-u-x-believe-in-magic.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md
 - posts/seven-sick-books-i-read-this-year.md
