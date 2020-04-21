@@ -42,6 +42,7 @@ fields:
     gets added as canonical URL for SEO purposes.
   label: Location originally posted
 pages:
+- drafts/attention-in-design.md
 - drafts/future.md
 - drafts/hinduism-and-the-good-place.md
 - drafts/how-to-write-a-book-in-a-month.md
