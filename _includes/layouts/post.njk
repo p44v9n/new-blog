@@ -4,8 +4,9 @@ templateClass: tmpl-post
 footer: True
 darkmodecaption: False
 ---
+
 <h1>{{ title }}</h1>
 
-{%- if date -%} <p><em>Published on {{ date | readableDate }}.</em></p> {%- endif -%}
+{%- if date -%} <p><em>Published on {{ date | readableDate }}.<br />Reading time: <strong>{{ content | readingTime }}</strong>.</em></p> {%- endif -%}
 
 {{ content | safe }}

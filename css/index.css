@@ -3,7 +3,7 @@
   --gray: #C0C0C0;
   --fadedgray: #6D6565;
   --darkgray: #111111;
-  --bgcolor: #fffff8;
+  --bgcolor: #f5f4ec;
 }
 * {
   box-sizing: border-box;
@@ -17,19 +17,22 @@ body {
   margin: 0;
 }
 .container {
-  width: 60%;
+  width:800px;
   margin: 0 auto;
 }
 .page {
-    padding-bottom: 5vh;
     min-height: 95vh;
+    margin-top: 2rem;
+    padding-bottom: 4rem;
 }
+
 h1, h2, h3 {
   font-size: 48px;
   font-weight: 600;
   line-height: 80%;
   padding-top: 3rem;
 }
+
 h2, h3 {
   font-size: 27px;
 }
@@ -72,21 +75,7 @@ main :first-child {
   margin-top: 0;
 }
 
-header {
-  /*border-bottom: 1px dashed var(--lightgray);*/
-  position: fixed;
-  min-height:40px;
-  width: 100%; 
-  margin: 0 auto;
-  background-color: var(--bgcolor);
-  z-index:10;
-  text-align: center;
-}
-header:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+
 table {
   margin: 1em 0;
 }
@@ -251,19 +240,56 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
-.home {
-  display:none;
-}
 
 /* Nav */
+
+
+header {
+  /*border-bottom: 1px dashed var(--lightgray);*/
+  position: fixed;
+  min-height:40px;
+  width: 100%; 
+  background-color: var(--bgcolor);
+  z-index:10;
+  top: 0;
+    transition: background-color 200ms ease-in-out 0s, box-shadow 200ms ease-in-out 0s;
+
+}
+
+header.active {
+  background-color: #ffffff;
+      box-shadow: rgba(0, 0, 0, 0.15) 0px 1px 4px 0px;
+
+}
+
+.header-inner {
+  width:800px;
+    display: grid;
+  grid-template-columns: 1fr 5fr;
+    text-align: center;
+margin: 2rem auto;
+
+}
+
+h1.home {
+    font-family: 'IBM Plex Mono', monospace;
+      font-size: 18px;
+      align-self: center;
+      padding-top: 0;
+}
+h1.home a {
+  font-size: 16px;  
+  text-decoration: none;
+ }
 
 .nav {
   padding: 0;
   list-style: none;
-  display: inline-block;
+        align-self: center;
+
 }
 .nav-item {
-  display: inline-block;
+  display: inline;  
   margin-right: 1em;
   text-transform: lowercase;
   font-variant: small-caps;
@@ -284,14 +310,13 @@ a[href].direct-link:focus:visited,
 .nav-item-active::before {
   content: '\b7\a0';
       color: var(--fadedgray) !important;
-
 }
 
 
 footer {
   padding-top: 4rem;
   margin: 0 auto;
-  width: 60%;
+  width:800px;
 }
 
 
