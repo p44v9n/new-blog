@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
-date: 2020-05-06T23:00:00Z
-tags: []
+date: '2020-05-06T23:00:00Z'
+tags:
+- Magic
 title: Love and gravity
 description: Movement in magic
 canonical: ''
