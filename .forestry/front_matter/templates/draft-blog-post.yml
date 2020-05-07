@@ -5,12 +5,16 @@ fields:
 - type: text
   name: layout
   label: layout
-- type: list
-  name: tags
-  label: tags
+  default: layouts/post.njk
+  hidden: true
+  config:
+    required: false
 - type: text
   name: title
   label: title
 - type: text
   name: description
   label: description
+- type: list
+  name: tags
+  label: tags
