@@ -42,8 +42,13 @@ fields:
     gets added as canonical URL for SEO purposes.
   label: Location originally posted
 pages:
+- drafts/attention-in-design.md
 - drafts/future.md
+- drafts/hinduism-and-the-good-place.md
 - drafts/how-to-write-a-book-in-a-month.md
+- drafts/non-fiction-reads-foro-right-now.md
+- drafts/quick-start-design-of-an-app-ui-in-figma.md
+- drafts/website-teardown.md
 - drafts/what-i-learnt-from-my-fringe-show.md
 - posts/do-u-x-believe-in-magic.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md
