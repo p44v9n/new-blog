@@ -1,0 +1,23 @@
+---
+label: Draft blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: layouts/post.njk
+  hidden: true
+  config:
+    required: false
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+pages:
+- drafts/love-and-gravity.md
+- drafts/ui-designer-physical-toolkit.md
