@@ -4,6 +4,8 @@
   --fadedgray: #6D6565;
   --darkgray: #111111;
   --bgcolor: #f5f4ec;
+  --highlight-color-light: #005aff;
+  --highlight-color-dark: #cea707;
 }
 * {
   box-sizing: border-box;
@@ -15,10 +17,14 @@ body {
   background-color: var(--bgcolor);
   font-family: 'EB Garamond', Garamond, serif;
   margin: 0;
+  overflow-x: hidden;
 }
+::-moz-selection { background: var(--highlight-color-light); color: var(--bgcolor);}
+::selection { background: var(--highlight-color-light); color: var(--bgcolor); }
 .container {
   width:800px;
   margin: 0 auto;
+  padding: 0 2rem;
 }
 .page {
     min-height: 95vh;
@@ -253,7 +259,7 @@ header {
   z-index:10;
   top: 0;
     transition: background-color 200ms ease-in-out 0s, box-shadow 200ms ease-in-out 0s;
-
+  padding: 0 2rem;
 }
 
 header.active {
@@ -385,21 +391,28 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
 /* Responsive styles */
 
   @media (max-width: 640px) {
+
+    .nav {
+      display: none;
+    }
     .tmpl-post {
       width:unset;
     }
     .container, footer {
-      width: 90%;
+      padding: 0 2rem;
+      width: 100%;
     }
     header {
       text-align: left;
       display: block;
-      width:90%;
+      width:100%;
       position: unset;
     }
-    .nav, .nav-item {
-      display: block;
+    header.active {
+      background-color: unset;
+      box-shadow: unset;
     }
+
     main {
       padding-top: 2rem;
     }
@@ -426,6 +439,6 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
       display: none;
     }
     img {
-  max-width: 100%;
-}
+      max-width: 100%;
+    }
   }

@@ -19,7 +19,7 @@ There are three areas in particular where both are similar, and where knowledge 
 
 You can watch a full recording of me giving the talk here:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/remm0OhK1Ls?start=76" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/remm0OhK1Ls?start=76" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I've given this talk at:
 
