@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 date: 2020-05-14T08:06:54Z
-tags: []
+tags:
+- Design
 title: These are my favourite personal websites
 description: A quick curated roundup of my top fifteen personal / portfolio websites
   from developers and product designers
