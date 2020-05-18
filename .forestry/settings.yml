@@ -24,6 +24,10 @@ sections:
   match: "*.md"
   templates:
   - blog-post
+- type: heading
+  label: Don't write to be read
+- type: heading
+  label: Write to write, explore, experiment, share, express, inspire
 upload_dir: img
 public_path: "/img"
 front_matter_path: ''
