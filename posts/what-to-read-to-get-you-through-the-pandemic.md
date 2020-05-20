@@ -1,7 +1,8 @@
 ---
 layout: layouts/post.njk
 date: 2020-05-06T19:37:42Z
-tags: []
+tags:
+- Books
 title: What to read to get you through the pandemic
 description: I’ve found it hard to process the lockdown. Here’s what I’ve been reading
   to help me with it.
