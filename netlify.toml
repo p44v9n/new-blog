@@ -2,13 +2,15 @@
   publish = "_site"
   command = "DEBUG=* eleventy"
 
+# change to an eleventy specifc rss
+
 [[plugins]]
 package = "netlify-plugin-rss"
   [plugins.inputs]
   # required configs, customize as needed
   dirToScan = "/posts" # a subfolder to scan. "/" to scan all
   authorName = "Paavan Biddhdev"
-  site_url = "https://swyx.io"
+  site_url = "https://paavanblog.com"
   title = "Paavan's Blog RSS Feed"
   rssDescription = "paavanblog.com RSS Feed"
   categories = ['Design', 'UX', 'Startups']
