@@ -1,36 +1,3 @@
 [build]
   publish = "_site"
   command = "DEBUG=* eleventy"
-
-# change to an eleventy specifc rss
-
-[[plugins]]
-package = "netlify-plugin-rss"
-  [plugins.inputs]
-  # required configs, customize as needed
-  dirToScan = "/posts" # a subfolder to scan. "/" to scan all
-  authorName = "Paavan Biddhdev"
-  site_url = "https://paavanblog.com"
-  title = "Paavan's Blog RSS Feed"
-  rssDescription = "paavanblog.com RSS Feed"
-  categories = ['Design', 'UX', 'Startups']
-
-  # # optional configs, defaults shown
-  rssFaviconUrl = "https://paavanblog.com/img/favicon.png"
-  # docs = "http://example.com/rss/docs.html"
-  # managingEditor = "authorName"
-  # webMaster = "authorName"
-  # copyright = "2020 ${authorName}"
-  language = "en"
-  # pubDate = "new Date().toUTCString(),"
-  # ttl = "60" # aka refresh every hour
-
-  # # cheerio selectors for extractMetadataFromFile
-  # # defaults shown
-  # contentSelector = "main"
-  # publishDateSelector = # if not specified, we use the date of file creation
-  # descriptionSelector = "meta[name=description]" # probably no need to change
-  # titleSelector = "title" # probably no need to change
-
-  # # developer configs
-  # debugMode = false # (for development) turn true for extra diagnostic loggin
