@@ -56,19 +56,19 @@ Here’s my advice:
 
 Lots of unsuccessful campaigns have rambling descriptions laden with typos. The best campaigns get straight to the point. Your idea should be distilled to a single sentence.
 
-My description had five short sections below the video: Summary / What’s in it / Who’s it for / I need your help / About me
+My description had five short sections below the video: Summary / What’s in it / Who’s it for / I need your help / About me.
 
 * **Lean into being an indie creator**.
 
 You’re asking for help, so don’t be ashamed of it. By making it clear that you’re doing this by yourself, people will want to help you and will respond better to The Ask.
 
-* **Have images and a video**
+* **Have images and a video, but...**
 
-But don’t worry — you don’t need a lot. If anything, less is more, especially if you’re embracing your indie-creator-budget. I had one photo: I created a mockup of the book on Photoshop, so people could visualise it (the book ended up looking quite different). And I had a video that was shot on my phone — I just made sure to be in a quiet place with god lighting.
+...but don’t worry — you don’t need a lot. If anything, less is more, especially if you’re embracing your indie-creator-budget. I had one image of the book: I created a mockup of the book on Photoshop, so people could visualise it (the book ended up looking quite different). And I had a short video of myself talking to camera, that was shot on my phone — I just made sure to be in a quiet place with good lighting.
 
 * **Get the price right.**
 
-It’s easy to undervalue your effort or underestimate your costs. Don’t. Also, don’t go overboard with reward tiers. I had four tiers: a thank you / support tier for £1, the book for £20, the book (early-bird), which was the same, but included an extra essay for the first ten backers to claim it, and 3 copies of the book for £55.
+It’s easy to undervalue your effort or underestimate your costs. Don’t. Also, don’t go overboard with reward tiers. I had three tiers: a thank you / support tier for £1, the book for £20, an early-bird tier for £20, which was the book and an extra essay, for the first ten backers to claim it,.
 
 * **Get the Ask right.**
 
