@@ -20,7 +20,7 @@ I’d been loosely thinking about _VANISH_ for a while before I launched it on K
 
 Make100 is a challenge to creatives: make 100 of anything, and fund it by selling them to early backers on Kickstarter.
 
-I’m really grateful for this challenge. Selling 100 copies of a book seemed like an attainable goal. It gave me the kick I needed to launch the campaign. So I launched my campaign at the end of January 2020, before Make100 ended. 
+I’m really grateful for this challenge. Selling 100 copies of a book seemed like an attainable goal. It gave me the kick I needed to launch the campaign. So I launched my campaign at the end of January 2020, before Make100 ended.
 
 On the surface, my campaign was hugely successful: I reached my funding goal after just 22 hours.
 
@@ -48,7 +48,7 @@ So I guess it was a good thing, overall.
 
 ### Tips for a successful campaign
 
-I’d backed a lot of Kickstarter campaigns before launching mine, so sort of knew what made for a good one.
+I’d backed a lot of Kickstarter campaigns before launching mine, so I sort of knew what made for a good one.
 
 Here’s my advice:
 
