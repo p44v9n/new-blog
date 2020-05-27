@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-date: 2020-05-27T12:33:06Z
+date: 2020-05-27T12:33:06.000+00:00
 tags:
 - Books
 title: How I crowdfunded my book on Kickstarter
@@ -12,7 +12,7 @@ I recently wrote a limited edition book of essays called VANISH. I used Kickstar
 
 In this post, I’ll break down what I did to make Kickstarter successful, and then give you some tips for your own crowdfunding campaign.
 
-![](https://cdn-images-1.medium.com/max/1600/1*tJNb5pLT4WDtBgIsUA5naQ.png)
+![A screenshot of the Kickstarter page for the project](/img/kickstarterscreenshot.png)
 
 ### About my campaign
 
@@ -36,7 +36,7 @@ Based on all of this, I set my funding goal at £750. I reached this goal in les
 
 ### My mistake
 
-![](https://cdn-images-1.medium.com/max/1200/1*sWPPLStN96wmq0-r80CjNA.png)
+![A graph of the funding progress over the campaign; the line becomes immediately horizontal just above £2000 after 7 days, and stays flat for 21 more days.](/img/fundingprogress.png)
 
 The above graph shows the funding progress over the course of the 30 day campaign.
 
@@ -68,11 +68,13 @@ You’re asking for help, so don’t be ashamed of it. By making it clear that y
 
 * **Get the price right.**
 
-It’s easy to undervalue your effort or underestimate your costs. Don’t. Also, don’t go overboard with reward tiers. I had three tiers: a thank you / support tier for £1, the book for £20, an early-bird tier for £20, which was the book and an extra essay, for the first ten backers to claim it,.
+It’s easy to undervalue your effort or underestimate your costs. Don’t. Also, don’t go overboard with reward tiers. I had three tiers: a thank you / support tier for £1, the book for £20, and an early-bird tier, which was only available for the first then backers, and had the book for £20 plus an extra essay.
 
 * **Get the Ask right.**
 
-Be upfront, direct and confident. You’re asking people for money, which they’re investing in you. They’re not buying a product that will immediately ship. Instead, they’re taking part in your creative process. So share that with them.
+You’re asking people for money. You're not selling them a product that will ship immediately. You're asking them to invest in you.
+
+So you need to be upfront, direct, confident and honest.
 
 * **Become featured by Kickstarter**
 
@@ -84,4 +86,4 @@ I don’t know how they select projects, but if you follow the above advice, you
 
 Completing the crowdfunding campaign is only the beginning. You then have to write the book. More on that soon…
 
-![Photo of my finished book and accompanying postcards](https://cdn-images-1.medium.com/max/1600/0*dRazHSHnnBggjvBJ "Photo of my finished book and accompanying postcards")
+![Photo of my finished book and accompanying postcards](/img/vanish-book.jpeg "Photo of my finished book and accompanying postcards")
