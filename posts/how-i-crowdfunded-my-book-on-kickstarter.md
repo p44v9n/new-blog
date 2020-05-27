@@ -38,7 +38,7 @@ Based on all of this, I set my funding goal at £750. I reached this goal in les
 
 ![](https://cdn-images-1.medium.com/max/1200/1*sWPPLStN96wmq0-r80CjNA.png)
 
-The above graph shows the funding progress over the course eof the 30 day campaign.
+The above graph shows the funding progress over the course of the 30 day campaign.
 
 You can tell that, because I limited the amount of copies I sold to 100, I screwed myself over. If I hadn't committed to a limited number of copies, I'd definitely have been able to sell more copies during the campaign. It's also likely that I could have sold more now, given that I now have photos of the physical book and positive reviews from people who’ve read it.
 
