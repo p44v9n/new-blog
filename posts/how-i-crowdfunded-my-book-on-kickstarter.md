@@ -6,7 +6,7 @@ tags:
 title: How I crowdfunded my book on Kickstarter
 description: A summary of my crowdfunding campaign for VANISH.
 canonical: ''
-
+socialimage: "https://paavanblog.com/img/social-kickstarter.png"
 ---
 I recently wrote a limited edition book of essays called VANISH. I used Kickstarter to crowdfund the book, as a way of giving myself an external motivator to actually finish writing it. [You can see the campaign here.](https://www.kickstarter.com/projects/p44v9n/make-100-vanish-limited-edition-book/)
 

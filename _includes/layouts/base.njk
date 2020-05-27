@@ -13,6 +13,10 @@
   {%- if canonical -%}
   <link rel="canonical" href="{{ canonical }}">
   {%- endif -%}
+  {%- if socialimage -%}
+  <meta property="og:image" content="{{ socialimage }}">
+  <meta property="og:url" content="{{ socialimage }}">
+  {%- endif -%}
 </head>
 <body>
   <div class="page">
