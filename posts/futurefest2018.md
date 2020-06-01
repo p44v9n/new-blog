@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "‘The Garden’ at Future Fest 2018"
-description: An overview of my experience at FutureFest 2018
+description: An overview of my experience at FutureFest 2018.
 tags: Personal
 date: 2018-07-16
 
