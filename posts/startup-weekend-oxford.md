@@ -1,16 +1,16 @@
 ---
-title: Third Time’s The Charm
-description: Overview of winning my third Startup Weekend competition
+title: Startup Weekend 2019
+description: Overview of what Startup Weekend is and how our team won.
 date: 2019-03-27
 tags:
 - Startup
 layout: layouts/post.njk
 
 ---
-Last weekend I attended *Startup Weekend Oxford: Fintech Edition*. It was the third startup weekend I've attended, having been to one in Oxford two years ago and one in London late last year. I love them — each time I've been, I've met really lovely people, and had fun working on really cool ideas. This time the team that I was a part of won first prize!
+Last weekend I attended _Startup Weekend Oxford: Fintech Edition_. It was the third startup weekend I've attended, having been to one in Oxford two years ago and one in London late last year. I love them — each time I've been, I've met really lovely people, and had fun working on really cool ideas. This time the team that I was a part of won first prize!
 
 ![Our team, the judges and the organisers](/img/swox19.jpg)
-*Our team, the judges and the organisers*
+_Our team, the judges and the organisers_
 
 ## What is a Startup Weekend?
 
@@ -29,33 +29,33 @@ On Sunday, all the teams pitch (for just 5 minutes!) to a panel of judges. Each 
 I didn't pitch an idea at the previous two startup weekends I went to. I actually ended up being on teams working on social enterprises at both. The first one was a 'pledge-swapping' app, where users could meet other socially-minded users and commit to (for example) going vegetarian for a week in excahnge for signing up to the Labour party membership. The second idea was about encouraging people to boycott brands that had bad human rights practices and offer ethical alternatives.
 
 ![Photo of me answering a question from the judges at Startup Weekend Oxford 2017](/img/swox17.jpg)
-*Photo of me answering a question from the judges at Startup Weekend Oxford 2017.*
+_Photo of me answering a question from the judges at Startup Weekend Oxford 2017._
 
 So this time around I was keen to pitch an idea, but didn't have anything fleshed out. But I did, however, have a (macro) problem that I thought needed solving. Renting is crazy expensive (especially when living in London in your early 20s) and saving enough to get onto the property ladder while paying so much in rent is nearly impossible.
 
 Unlike most pitches, I didn't pitch a solution. I had no sexy app in mind to solve this problem. I did, however, have a concept in mind that could be used: property guardianship.
 
-In brief, a *property guardian* is someone who enters into an agreement with a company to live in an otherwise unoccupied building. *Property guardian* is not an officially recognised term; it is used to denote a resident who doesn't have a lease agreement so is technically not a 'tenant'. The company who owns the building saves huge amounts in insurance and empty building tax (in some cases a £110k p.a. bill dropped to £15k p.a.) and the guardian gets to live cheaply in a non-residential building. The buildings could be anything, from office blocks to disused hospitals. Often they have no furniture, and only have running water and a smoke alarm.
+In brief, a _property guardian_ is someone who enters into an agreement with a company to live in an otherwise unoccupied building. _Property guardian_ is not an officially recognised term; it is used to denote a resident who doesn't have a lease agreement so is technically not a 'tenant'. The company who owns the building saves huge amounts in insurance and empty building tax (in some cases a £110k p.a. bill dropped to £15k p.a.) and the guardian gets to live cheaply in a non-residential building. The buildings could be anything, from office blocks to disused hospitals. Often they have no furniture, and only have running water and a smoke alarm.
 
 People pitching usually say who they want to join their team: designers, developers, marketers, and so on. I just asked for anyone who was keen to research the problem as much as possible, and see if we could find a solution. My pitch got enough votes and eventually we formed a team of 7.
 
-## The inital idea
+## The initial idea
 
 Friday evening was spent doing a brain dump of all potential ideas. Saturday was spent doing a lot of research. There were lots of problems; one we kept coming back to was that potential property guardians don't know what their legal rights as a guardian would be. We thought of pitching an app that compared different property guardian companies; an app that made it really easy to sign up and apply, and get NFC powered key access to a building; an app that targeted international students looking to live cheaply...
 
 But all our research showed that none of these had a business case.
 
-There are 40 or so companies that offer property guardianships, and only 7000 guardians in the UK. One company had a waiting list of 2000 people. The market was both small and crowded. Moreover, the appeal had disappeared: when these properties first appeared in the early 2000s, places could be 'rented' for a third of what normal rent was. Now the cost is basically the same, but you don't get the same guarantees or provisions that a retner would. There are [horror stories](https://www.theguardian.com/society/2015/dec/24/the-high-price-of-cheap-living-how-the-property-guardianship-dream-soured ) of deposits never being returned, guardians having to vacate within 24 hours, and more.
+There are 40 or so companies that offer property guardianships, and only 7000 guardians in the UK. One company had a waiting list of 2000 people. The market was both small and crowded. Moreover, the appeal had disappeared: when these properties first appeared in the early 2000s, places could be 'rented' for a third of what normal rent was. Now the cost is basically the same, but you don't get the same guarantees or provisions that a renter would. There are [horror stories](https://www.theguardian.com/society/2015/dec/24/the-high-price-of-cheap-living-how-the-property-guardianship-dream-soured ) of deposits never being returned, guardians having to vacate within 24 hours, and more.
 
-The nail in the coffin came when one of our team tracked down a journalist who had lived as a property guardian in multiple properties in the last ten years, and had [written a piece about it in The Times](https://www.thetimes.co.uk/article/how-it-feels-to-be-a-millennial-property-guardian-fssbw8knr). He told us that we really had no business case. Because of the rising cost to be a property guardian, our startup would make so little money running a service on top. And in his opinion, the whole scheme would "eat it's own tail" and disappear in a matter of years.
+The nail in the coffin came when one of our team tracked down a journalist who had lived as a property guardian in multiple properties in the last ten years, and had [written a piece about it in The Times](https://www.thetimes.co.uk/article/how-it-feels-to-be-a-millennial-property-guardian-fssbw8knr). He told us that we really had no business case. Because of the rising cost to be a property guardian, our startup would make so little money running a service on top. And in his opinion, the whole scheme would "eat its own tail" and disappear in a matter of years.
 
-We didn't really have anywhere to go with the idea. It sounded great: 24,000 commerical properties in London alone are empty, and 11,000 of those have been empty for 2+ years ([source](https://www.bbc.co.uk/news/uk-england-london-45720960)). But we had nothing unique, and no way to convince those property owners that a person needing somewhere to cheap to live was better than a good security system until they could be sold.
+We didn't really have anywhere to go with the idea. It sounded great: 24,000 commercial properties in London alone are empty, and 11,000 of those have been empty for 2+ years ([source](https://www.bbc.co.uk/news/uk-england-london-45720960)). But we had nothing unique, and no way to convince those property owners that a person needing somewhere cheap to live was better than a good security system until they could be sold.
 
-So, on Saturday evening, three quarters of the way into the competition, we decided to scrap everything we'd done and start afresh.
+So, on Saturday evening, three quarters of the way into the competition, we decided to scrap everything we'd done and start afresh...
 
-## Episode IV — A New Hope
+## A New Hope
 
-We 'pivoted'. We came up with and refined a new idea: simplifying co-buying a house.
+...so we 'pivoted'. We came up with and refined a new idea: simplifying co-buying a house.
 
 ![Gif of Ross shouting 'pivot' in Friends](/img/rosspivot.gif)
 
@@ -65,7 +65,7 @@ This is already possible to do, but people don't do it, because it's not easy. T
 
 Our app would show people explicitly what happens in these various scenarios, removing any worries, and would also show the savings made by not paying rent and by potential increase (or decrease) of the property's value. The company would initially be profitable by gaining referral fees from conveyancers and mortgage brokers, and could eventually branch out into subsidiary revenue streams.
 
-Although this idea focussed on a completely different problem, it solves the same macro problem: rent is expensive; how do I pay less rent? 
+Although this idea focussed on a completely different problem, it solves the same macro problem: rent is expensive; how do I pay less rent?
 
 Our team scrambled together a pitch deck, some figures to size the market and present a business case to show it was viable, we put together a quick prototype with Figma (I <3 Figma), and we pitched it. And we won!
 
@@ -80,8 +80,8 @@ Other lessons: a good pitch and a good prototype really make all the difference.
 I feel super lucky to have worked alongside such an amazing team throughout. We all listened to each other, worked collaboratively, and bounced ideas off each other. It was this that eventually allowing us to land on something really great.
 
 ![Our team!](/img/swox19_2.jpg)
-*Our team!*
+_Our team!_
 
 Stay tuned for more info about our startup-in-progress!
 
-*PS: Matt also did a write-up about our team at Startup Weekend; you can read it [here](https://www.linkedin.com/pulse/oxford-startup-weekend-2019-matt-newton-lewis/)*.
+_PS: Matt also did a write-up about our team at Startup Weekend; you can read it_ [_here_](https://www.linkedin.com/pulse/oxford-startup-weekend-2019-matt-newton-lewis/).
