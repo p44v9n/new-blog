@@ -1,11 +1,11 @@
 ---
 layout: layouts/post.njk
-title: ‘The Garden’ and other cool things at Future Fest 2018
+title: "‘The Garden’ at Future Fest 2018"
 description: An overview of my experience at FutureFest 2018
 tags: Personal
 date: 2018-07-16
----
 
+---
 Last weekend, I went to the first day of [FutureFest](https://www.futurefest.org/) with a friend. FutureFest is a conference organised by [Nesta](https://www.nesta.org.uk/) about what the future will be like. It had loads of talks and panel sessions, filled with academics, politicians, artists and musicians, as well as interactive art installations and other exhibits. I wanted to write a brief summary of some of the cool things I saw in order to remember them.
 
 ## The Garden
@@ -33,4 +33,3 @@ The last layer was harmony. It looked similar to the previous layer, in that it 
 - **CrimeForce: LoveTeam** used audience decisions about the future of pop music and political unrest to envision an episode of a police procedural, in which a member of hit boyband LoveTeam was murdered
 - **Bec Hill** did her thing, she's great, you should watch her videos [here](https://www.youtube.com/watch?v=M9hVR5_9Jlk)
 - We went to panels and talks about gig economy in the near-future (i.e. when Deliveroo and Uber models for jobs are ruining lives, before universal basic income takes over), robots, humanity 2.0 / transhumanism and more
-
