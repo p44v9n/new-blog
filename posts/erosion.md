@@ -4,7 +4,8 @@ title: Erosion
 description: Reflections on wearing away.
 tags:
 - Personal
-date: '2020-06-24T23:27:26Z'
+date: 2020-06-24T23:27:26Z
+canonical: ''
 
 ---
 Earlier today, my friend and I were clambering around the shore in Salcombe. As the tide was flowing out, we tried to reach some of the quieter (read: less busy) beaches. We walked down a steep cliff, along an overgrown canopied path, til we reached the coast. From there, a set of giant concrete steps took us down to the edge of the water. These blocks showed signs of the water's attack. Each was decidedly less rectangular than it would have been initially; each slab had peeling edges, reminiscent of a book dropped in water. The waves, over decades if not centuries, had calmly and relentlessly flowed against the 'immovable' structure, causing them to begin crumbling. After the steps came a landscape of rocks: treacherously jagged, covered in seaweed and rockpools, inviting us to climb on them in spite of the danger. In contrast to the field of rocks, the man-made steps were denser, blockier; but pathetic looking, almost supine, next to the grand, natural, _sharp_ rock forms created by the ocean.
