@@ -2,7 +2,8 @@
 layout: layouts/post.njk
 title: Erosion
 description: Reflections on wearing away.
-tags: []
+tags:
+- Personal
 date: '2020-06-24T23:27:26Z'
 
 ---
