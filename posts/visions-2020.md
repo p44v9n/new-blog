@@ -20,6 +20,6 @@ I then looked at the most popular ways of forming a 'vision statement' and showe
 
 Lastly, I covered two new strategies to make a vision statement that _does_ hit all three of those properties, namely Hills and Storytelling.
 
-You can watch a recording of the talk here, as well as watching the other two great talks from that evening: Susana Lopes speaking on the State of Product, and Joe Rinaldi Johnson on building health-tech products.
+You can watch a recording of the talk [here](https://youtu.be/Cm3jzSgP6is?t=215), as well as watching the other two great talks from that evening: Susana Lopes speaking on the State of Product, and Joe Rinaldi Johnson on building health-tech products.
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Cm3jzSgP6is&t=215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Cm3jzSgP6is&t=215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
