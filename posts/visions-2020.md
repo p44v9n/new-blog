@@ -22,4 +22,4 @@ Lastly, I covered two new strategies to make a vision statement that _does_ hit 
 
 You can watch a recording of the talk [here](https://youtu.be/Cm3jzSgP6is?t=215), as well as watching the other two great talks from that evening: Susana Lopes speaking on the State of Product, and Joe Rinaldi Johnson on building health-tech products.
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/Cm3jzSgP6is&t=215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/Cm3jzSgP6is?rel=0&start=215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
