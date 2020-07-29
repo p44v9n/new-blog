@@ -5,17 +5,25 @@ description: ''
 tags: []
 
 ---
-At university, I did a joint honours degree in philosophy and computer science, and spent a lot of it really sucking at the computer science part of it. My tutor at the time gave me a wonderful bit of advice, which I’d heard before but never taken to heart. It was that: sucking at something g is the first step at being sorta good at something. Jake the Dog, Adventure Tome.
+At university, I did a joint honours degree in philosophy and computer science, and spent a lot of it really sucking at the computer science part of it. My tutor at the time gave me a wonderful bit of advice. I’d heard it before but had never taken it to heart. It was: _sucking at something is the first step at being sorta good at something._
 
-It sounds like cheesy motivational poster trite but I think it‘s a symptomatic in common with similar to a lot of the most powerful motivation I hear.
+![Dude, sucking at something is the first step towards being sort of ...](https://i.kym-cdn.com/photos/images/newsfeed/001/141/641/6dc.gif)
 
-Two examples:
+It sounds like motivational poster trite. But it's right: you gotta suck before you get good. And I do think that as a piece of advice, it's super motivating. It reminds you that everyone sucked one.
 
-Coach Bennett. See you on another starting line. Being a good runner is never about being a fast runner or having perfect form or rubbing x times a week. (Part from the requirement to keep a coaching app generic)
+The Nike slogan _Just Do It_ aims at the same idea — leave behind all excuses, and just get going. Just start.
 
-he YouTuber Mike Boyd has an amazing channel where he documents the process of mastering new skills. His _catchphrase_, which starts every video, is: Day 1? Hour 0. Everyone starts somewhere...
+Starting is often the hardest part.
 
-In the last few months, I wrote, sold (via crowdfunding) and produced a limited edition book of essays. It's called VANISH. Here's what it looks like:
+<hr />
+
+I've been trying to run more regularly throughout lockdown. I've been using the Nike Run Club app to track my runs, and they have audio coaching, which is hugely motivating. The coached sessions teach you that being a good runner is not about being a fast runner or having perfect form or running x times a week. It's just about coming back again and putting in the miles — even if that means running easier. Coach Bennett has a great phrase that he ends his runs with, which encapsulates this: see you on another starting line. 
+
+Another example: the YouTuber Mike Boyd has an amazing channel where he documents the process of mastering new skills. I (of course) love this as a concept, because [specialisation is for insects](https://en.wikiquote.org/wiki/Time_Enough_for_Love#:\~:text=A%20human%20being%20should%20be%20able%20to%20change%20a%20diaper,%20plan%20an%20invasion,%20butcher%20a%20hog,%20conn%20a%20ship,%20design%20a%20building,%20write%20a%20sonnet,%20balance%20accounts,%20build%20a%20wall,%20set%20a%20bone,%20comfort%20the%20dying,%20take%20orders,%20give%20orders,%20cooperate,%20act%20alone,%20solve%20equations,%20analyze%20a%20new%20problem,%20pitch%20manure,%20program%20a%20computer,%20cook%20a%20tasty%20meal,%20fight%20efficiently,%20die%20gallantly.%20Specialization%20is%20for%20insects.,-Ibid.%2C%20p.). His catchphrase, which he begins every video with, is: **Day 1, Hour 0**. It's such a great line. I want it on a tshirt. Everyone starts somewhere...
+
+<hr />
+
+Earlier this year, I wrote and sold (via crowdfunding) and produced a limited edition book of essays. It's called VANISH. Here's what it looks like:
 
 Before I tell you how I made it, let me preface this by saying that _this isn't a healthy way to write a book._ You know what the healthy option is already: set a routine, sit down regularly and write consistently, every single day for a long period of time.
 
