@@ -19,6 +19,7 @@ fields:
   name: tags
   label: tags
 pages:
+- drafts/art-galleries-for-entrepreneurs.md
 - drafts/carrd-is-my-favourite-way-of-making-websites.md
 - drafts/guitar-meditation.md
 - drafts/hinduism-and-the-good-place.md
