@@ -21,16 +21,27 @@ body {
 }
 ::-moz-selection { background: var(--highlight-color-light); color: var(--bgcolor);}
 ::selection { background: var(--highlight-color-light); color: var(--bgcolor); }
-.container {
-  width:800px;
-  margin: 0 auto;
-  padding-bottom: 4rem;
-}
+
 .page {
     min-height: 95vh;
     margin-top: 2rem;
-    padding-bottom :0 2rem 4rem 2rem;
+    padding-bottom: 4rem;
 }
+.container {
+  width:800px;
+  margin: 0 auto;
+  padding: 0 2rem 4rem 2rem;
+}
+
+
+footer {
+  padding-top: 4rem;
+  margin: 0 auto;
+  max-width:800px;
+  width: 100%
+}
+
+
 
 h1, h2, h3 {
   font-size: 48px;
@@ -324,13 +335,6 @@ h1.home a {
 }
 
 
-footer {
-  padding-top: 4rem;
-  margin: 0 auto;
-  width:800px;
-}
-
-
 /* Mailchimp */
 
 #mc-embedded-subscribe-form {
@@ -403,7 +407,7 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
     .tmpl-post {
       width:unset;
     }
-    .container, footer {
+    .container {
       padding: 0 2rem;
       width: 100%;
     }
