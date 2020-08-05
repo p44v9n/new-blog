@@ -33,7 +33,7 @@ fields:
   default: []
   label: Category
   description: 'Choose one of the following: Design / Personal / Magic / Philosophy
-    / Dev / Startup / Books'
+    / Dev / Startup / Books / Meditation'
 - name: canonical
   type: text
   config:
