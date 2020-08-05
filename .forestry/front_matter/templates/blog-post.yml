@@ -33,7 +33,7 @@ fields:
   default: []
   label: Category
   description: 'Choose one of the following: Design / Personal / Magic / Philosophy
-    / Dev / Startup / Books'
+    / Dev / Startup / Books / Meditation'
 - name: canonical
   type: text
   config:
@@ -53,6 +53,7 @@ pages:
 - drafts/what-i-learnt-from-my-fringe-show.md
 - posts/do-u-x-believe-in-magic.md
 - posts/erosion.md
+- posts/four-notes-on-silence.md
 - posts/hills-the-best-framework-for-determining-where-to-go.md
 - posts/how-i-crowdfunded-my-book-on-kickstarter.md
 - posts/seven-sick-books-i-read-this-year.md
