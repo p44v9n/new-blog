@@ -2,10 +2,10 @@
 layout: layouts/post.njk
 tags:
 - Personal
-title: What I Learnt From My Fringe Show
-description: Reflections on the magic show I performed at the Edinburgh Fringe in
-  2015
-date: 2020-04-07T23:00:00Z
+title: What I learnt from putting on a show at the Edinburgh Fringe
+description: Reflections on the magic show I performed at the Edinburgh Fringe Festival
+  in 2015.
+date: 2020-04-07T23:00:00.000+00:00
 canonical: ''
 
 ---
@@ -25,7 +25,7 @@ I think it's a really great model. The venues tend to be spaces in bars, pubs, c
 
 My daily schedule in Edinburgh when doing the show consisted of flyering for a few hours . Living with Imps. Mental health.
 
-Getting people in / marketing / the art of flyering. Flyering gimmicks. Benefits of location / timing / family-friendly. (My flyer was a postcard and had a map on the back. 
+Getting people in / marketing / the art of flyering. Flyering gimmicks. Benefits of location / timing / family-friendly. (My flyer was a postcard and had a map on the back.
 
 It wasn't a bad show, but it wasn't very good either. Original material How magic shows work 'you did 5 tricks!'
 
