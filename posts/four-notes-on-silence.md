@@ -10,9 +10,7 @@ canonical: ''
 ---
 _Parts of this article appear in my book VANISH._
 
-  
-  
-1\.
+**_1._**
 
 The blurb to [_Silence_ by Erling Kagge](https://www.penguinrandomhouse.com/books/557225/silence-by-erling-kagge/) describes the book like so: “Norwegian explorer Kagge once spent fifty days walking solo across Antarctica \[with\] his radio broken.”
 
@@ -24,8 +22,7 @@ Kagge describes silence as more than just the absence of sound. He writes that
 
 > silence is more of an idea. A notion. The silence around us may contain a lot, but the most interesting kind of silence is the one that lies within. \[...\] It's possible for everyone to discover this silence within themselves. It is there all the time, even when we are surrounded by constant noise.
 
-  
-2\.
+**_2._**
 
 John Cage's silent piece, referred to as _4’33’’_, is comprised of four minutes and thirty-three seconds of silence. When performed, the musician, usually a pianist, closes the piano lid and just sits.
 
@@ -53,24 +50,7 @@ The first performance of _4’33’’_ was played by the pianist David Tudor at
 
 The silence opens up their ears to a substratum of underlying sounds, always there but rarely noticed. This absence helps reveal what’s always been there.
 
-  
-  
-3\.
-
-Bhagavān Śri Rāmānā Mahāṛṣi notes (during a talk given on the 7th November, 1938) that:
-
-> Silence is the true \[spiritual teaching\]... It is suited only for the most advanced seeker. The others are unable to draw full inspiration from it. Therefore, they require words to explain the truth. But truth is beyond words; it does not warrant explanation. All that is possible is to indicate _it_.
-
-In a talk earlier that year, on the 25th January 1938, when asked about controlling the breath (i.e. meditative practice), Rāmānā Mahāṛṣi says that
-
-> Breath-control is only an aid for diving deep. One may as well dive down by control of mind. On the mind being controlled, the breath becomes controlled automatically. \[...\] Breath-control is recommended for the man who cannot control his mind straightaway.
-
-The implication here is that controlling one's breathing helps to quiet the mind such that silence is all that remains. Silence is all that is required for the advanced seeker to realise the ultimate Truth, namely
-
-> that I am not and that all is He.
-
-  
-4\.
+**_3._**
 
 The article [Why Everything Is Getting Louder](https://www.theatlantic.com/magazine/archive/2019/11/the-end-of-silence/598366/) by Bianca Bosker examines the global increase of ambient noise due to the pervasiveness of technology.
 
@@ -83,3 +63,17 @@ The article is centred around a company called CyrusOne and their ever-increasin
 These servers power so, so many things: the algorithm picking your next Spotify song, the website where you order clothes from, the traffic lights that control a city.
 
 Our everyday way of living relies on data servers. In turn, our everyday way of living doesn't allow for silence.
+
+**_4._**
+
+Bhagavān Śri Rāmānā Mahāṛṣi notes (during a talk given on the 7th November, 1938) that:
+
+> Silence is the true \[spiritual teaching\]... It is suited only for the most advanced seeker. The others are unable to draw full inspiration from it. Therefore, they require words to explain the truth. But truth is beyond words; it does not warrant explanation. All that is possible is to indicate _it_.
+
+In a talk earlier that year, on the 25th January 1938, when asked about controlling the breath (i.e. meditative practice), Rāmānā Mahāṛṣi says that
+
+> Breath-control is only an aid for diving deep. One may as well dive down by control of mind. On the mind being controlled, the breath becomes controlled automatically. \[...\] Breath-control is recommended for the man who cannot control his mind straightaway.
+
+The implication here is that controlling one's breathing helps to quiet the mind such that silence is all that remains. Silence is all that is required for the advanced seeker to realise the ultimate Truth, namely
+
+> that I am not and that all is He.
