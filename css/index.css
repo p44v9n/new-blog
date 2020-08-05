@@ -24,12 +24,12 @@ body {
 .container {
   width:800px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding-bottom: 4rem;
 }
 .page {
     min-height: 95vh;
     margin-top: 2rem;
-    padding-bottom: 4rem;
+    padding-bottom :0 2rem 4rem 2rem;
 }
 
 h1, h2, h3 {
