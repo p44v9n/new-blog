@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-date: 2020-08-05T16:41:52Z
+date: 2020-08-05T16:41:52.000+00:00
 tags:
 - Meditation
 title: Four notes on Silence
@@ -8,7 +8,7 @@ description: Thoughts on our relationship with silence.
 canonical: ''
 
 ---
-_Parts of this article appear in my book VANISH._
+_Parts of this article appear in my book, VANISH._
 
 **_1._**
 
