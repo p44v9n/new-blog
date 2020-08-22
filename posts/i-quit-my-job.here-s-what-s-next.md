@@ -20,7 +20,7 @@ While working at AND, I got to work for some incredible clients: I worked on mul
 
 I also got to meet some amazing people.
 
-AND has a unique model where, despite being a 500+ person company, you really get to know your coworkers by virtue of the company being broken down into independent and semi-autonomous 'Clubs'
+AND has a unique model where, despite being a 500+ person company, you really get to know your coworkers by virtue of the company being broken down into independent and semi-autonomous 'Clubs.'
 
 (I recently found out that the max size of a club, \~80 people, was based on[ Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), the supposed upper bound of how many functioning social relationships human's can maintain.)
 
