@@ -24,9 +24,7 @@ AND has a unique model where, despite being a 500+ person company, you really ge
 
 (I recently found out that the max size of a club, \~80 people, was based on[ Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number), the supposed upper bound of how many functioning social relationships human's can maintain.)
 
-One of the people who really shaped my path was my development coach. She's now a UX Lead at AND, and taught me so, so much about user experience as a discipline.
-
-The trajectory of the work I was doing before I left, and the work I'll go on to do for the rest of my career, is all a direct consequence of her guidance.
+One of the people who really shaped my path was my development coach. She's now a UX Lead at AND, and taught me so, so much about user experience as a discipline. The trajectory of the work I was doing before I left, and the work I'll go on to do for the rest of my career, is all a direct consequence of her guidance.
 
 So! It all sounds like it was going great! So why did I choose to leave?
 
@@ -46,4 +44,4 @@ Dream big, start small... have it all.
 
 ***
 
-Unfortunately, I can't say anything about it just yet, but knowing me, there'd probably be a landing page parked on a dumb domain name like[ paavansecretproject.com](https://paavansecretproject.com/), where you could sign up to be one of the very first beta testers. You know, if you were interested in that sort of thing.
+Unfortunately, I can't say anything about the new company just yet. But knowing me, there'd probably be a landing page parked on a dumb domain name like[ paavansecretproject.com](https://paavansecretproject.com/), where you could sign up to be one of the very first beta testers. You know, if you were interested in that sort of thing.
