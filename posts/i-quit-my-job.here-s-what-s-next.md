@@ -28,9 +28,9 @@ Choosing to leave was a _really_ hard decision. On top of that, I was leaving du
 
 But I reasoned (with the advice of lots of friends, family and mentors...) that starting a startup is something that I may not have the freedom to do later on. Right now I have so few commitments in terms of family / a mortgage / dependents, so the risk/reward balance feels right.
 
-I also was tempted to explore part-time or split-working options, but the advice of my former squad lead Simba was to fully commit, else I wouldn't have 'skin in the game.' Being 100% full-time on the new startup gives it the best chance of success.
+I also was tempted to explore part-time or split-working options, but the advice of my former squad lead was to fully commit. If not, I wouldn't have 'skin in the game.' Being 100% full-time on the new startup gives it the best chance of success.
 
-My co-founder has already been successful in other industries, and I was honoured when he shared his idea with me and asked me to join him as a founder. The idea is really simple, but it's something that I really think has the power to change the world for the better. We've been working hard for the last two weeks, refining the concept, honing it down to its minimum viable version, and it's now in an amazing place. I genuinely believe it's going to turn into something incredible.
+My co-founder has already been successful in other industries, and I was honoured that he shared his idea with me and asked me to join him as a founder. The idea is really simple, but it's something that I really think has the power to change the world for the better. We've been working hard for the last two weeks, refining the concept, honing it down to its minimum viable version, and it's now in an amazing place. I genuinely believe it's going to turn into something incredible.
 
 ***
 
