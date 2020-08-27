@@ -1,8 +1,8 @@
-All content under _posts folder is:
+All content under _posts and _drafts folders, as well as any personal information and copy across the repo are:
 
 Copyright Paavan Buddhdev © 2020, All Rights Reserved
 
-All template files licensed under the MIT License. They have been adapted from the 11ty blog base starter (https://github.com/11ty/eleventy-base-blog):
+Everything else is licensed under the MIT License. Most of the code comes from / has been modified from the 11ty blog base starter (https://github.com/11ty/eleventy-base-blog). That code and changes to it are granted free of charge under the MIT License:
 
 MIT License
 
