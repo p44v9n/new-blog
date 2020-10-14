@@ -5,7 +5,7 @@ tags:
 - Sound Off
 title: Should you build your app idea?
 description: ''
-canonical: https://medium.com/sound-off/should-you-build-your-app-idea-4fbc97c777fa?source=friends_link&sk=ce9978ca47fe043b2a171fd5ce1e9398
+canonical: https://medium.com/sound-off/should-you-build-your-app-idea-4fbc97c777fa
 
 ---
 I haven't posted here since August, when I wrote about [leaving my job to start a startup](https://paavanblog.com/posts/i-quit-my-job.here-s-what-s-next/ ). The last few weeks have been incredibly busy — but now everything's under way and in motion, we're settling into more of a routine, and working hard to get our app ready for launch.
