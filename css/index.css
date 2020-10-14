@@ -87,16 +87,27 @@ blockquote {
     padding-left: 16px;
 }
 blockquote p {
-    font-size: 105%;
+    font-size: 115%;
 }
-
+hr {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top-color: currentcolor;
+    border-top-style: none;
+    border-top-width: medium;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+    width: 65%;
+    margin: 4rem auto;
+}
 main {
   padding-top: 4rem;
 }
 main :first-child {
   margin-top: 0;
 }
-
 
 table {
   margin: 1em 0;
@@ -450,4 +461,3 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
     img {
       max-width: 100%;
     }
-  }
