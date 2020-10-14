@@ -10,11 +10,11 @@ canonical: https://medium.com/sound-off/should-you-build-your-app-idea-4fbc97c77
 ---
 I haven't posted here since August, when I wrote about [leaving my job to start a startup](https://paavanblog.com/posts/i-quit-my-job.here-s-what-s-next/ ). The last few weeks have been incredibly busy — but now everything's under way and in motion, we're settling into more of a routine, and working hard to get our app ready for launch.
 
-Our app? It's called Sound Off. In short, it's a [mindfulness voice notes app](https://medium.com/sound-off/we-started-a-start-up-in-lockdown-16ddd7a8d297?source=friends_link&sk=f138e88fc45e19eb46eab688eeaca966). You hit record and talk about what's on your mind, what's going on in your life, what happened to you that day, and so on.
+Our app? It's called Sound Off. In short, it's a mindfulness voice notes app. You hit record and talk about what's on your mind, what's going on in your life, what happened to you that day, and so on.
 
 It's awesome. It looks amazing, and it works so well, and it's something I genuinely think will help make the world a better place. [I've written a bit about meditation and mindfulness on this blog before](https://paavanblog.com/posts/four-notes-on-silence/), but when you Sound Off, you're able to reflect in a totally different way.
 
-Rory, Elly and I are writing about the process of building Sound Off over on Medium. Below is my first post from that series, titled _Should You Build Your App Idea?_
+Rory, Elly and I are writing about [the process of building Sound Off ](https://medium.com/sound-off)over on Medium. Below is my first post from that series, titled _Should You Build Your App Idea?_
 
 ***
 
@@ -44,7 +44,7 @@ A good way to think about this is like so: instead of thinking about the specifi
 
 ***
 
-A few months ago, Rory asked me to start a startup with him. The lockdown in the UK led him to start a voice journal; we want to bring the benefits of voice journaling to everyone.
+A few months ago, Rory asked me to start a startup with him. [The lockdown in the UK led him to start a voice journal](https://medium.com/sound-off/we-started-a-start-up-in-lockdown-16ddd7a8d297?source=friends_link&sk=f138e88fc45e19eb46eab688eeaca966); we want to bring the benefits of voice journaling to everyone.
 
 Lots of friends have asked me why I’ve chosen to start a company now. I previously had a stable job at a great company — and to some, giving that up in the middle of a global pandemic seems crazy.
 
