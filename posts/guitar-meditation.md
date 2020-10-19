@@ -3,7 +3,7 @@ layout: layouts/post.njk
 date: 2020-10-19T19:58:27Z
 tags:
 - Meditation
-title: Guitar Meditation
+title: Guitar meditation
 description: My shotcut into a meditative state.
 canonical: ''
 
