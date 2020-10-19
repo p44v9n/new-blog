@@ -14,7 +14,7 @@ I used to play a ton back when I was a teenager, working my way through all the 
 
 Another thing I’ve tried to do more of this year is meditate. At the start of the year I was using Headspace pretty religiously, but I now just sit with a timer app for seven minutes each day.
 
-(I’m also exercising more regularly and voice journaling (‘[Sounding Off](https://medium.com/sound-off/meditation-for-people-who-cant-sit-still-4cb59c8e7ab3)’) each day, both with the aim of investing in my wellbeing and ‘being more mindful.’)
+(I’m also exercising more regularly and [Sounding Off](https://medium.com/sound-off/meditation-for-people-who-cant-sit-still-4cb59c8e7ab3) each day, both with the aim of investing in my wellbeing and ‘being more mindful.’)
 
 If you’ve done any meditation at all, you already know that the goal isn’t to actively clear all the thoughts from your mind and _think about nothing._ Instead, it’s just about sitting and watching thoughts go by. That’s why breath control is so important — it gives you something to focus on, instead of getting caught up in a thought and following it down its rabbit hole.
 
@@ -36,4 +36,4 @@ If you’re a guitar player, here’s the passage if you want to try it:
 
 If you’re not a guitar player, I imagine this would work with a near infinite amount of medium-complex repetitive physical tasks. The task can’t be simple enough that you’d zone out, but can’t be complex or new each time so that you can’t let your mind relax into that meditative state.
 
-I haven’t read anything about this type of ‘guitar meditation’ before. Searching for it gives me endless results for ‘chill guitar music to relax/fall asleep too.’ But I’ve read a lot about the [_flow state, _](https://en.wikipedia.org/wiki/Flow_(psychology))i.e. getting in the zone, being fully immersed in a sense of energised focus. I’m not sure if that’s what this is — but it feels as close to that as I’ve ever been.
+I haven’t read anything about this type of guitar meditation before. Searching for it online only gives me endless results for _chill guitar music to relax/fall asleep too_. But I’ve read a lot about the [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)), i.e. getting _in the zone_, and being fully immersed in a sense of energised focus. I’m not sure if that’s what this is — but it feels as close to that as I’ve ever been.
