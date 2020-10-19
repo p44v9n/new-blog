@@ -8,7 +8,7 @@ description: My shotcut into a meditative state.
 canonical: ''
 
 ---
-Like lots of people, over the course of the pandemic, I’ve revisited old hobbies. One thing I’ve gotten back into is playing guitar.
+Like lots of people, over the course of the pandemic, I’ve revisited old hobbies. One thing I’ve gotten back into is playing guitar. 
 
 I used to play a ton back when I was a teenager, working my way through all the classical grades, but stopped after going to uni and in the subsequent years. It’s been really fun to pick back up, and try playing all the old sheet music I could find.
 
