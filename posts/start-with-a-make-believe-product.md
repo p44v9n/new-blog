@@ -1,11 +1,11 @@
 ---
 layout: layouts/post.njk
-date: 2020-10-20T17:03:32Z
+date: 2020-10-20T17:03:32.000+00:00
 tags:
 - Sound Off
 title: Start with a make-believe product
 description: Aka, the Gospel of thinking in MVPs.
-canonical: ''
+canonical: https://medium.com/sound-off/start-with-a-make-believe-product-873c5ebb643b
 
 ---
 A frequently recommended book for all entrepreneurs is [_The Lean Startup_ by Eric Ries](https://medium.com/@tdevroome/book-summary-the-lean-startup-2113c0cf4289). It’s over 300 pages long.
