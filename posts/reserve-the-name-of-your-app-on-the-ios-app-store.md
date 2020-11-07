@@ -8,6 +8,8 @@ description: A quick guide to reserving the name of your app on the app store
 canonical: https://medium.com/sound-off/how-to-reserve-the-name-of-your-app-2752c0a4e91b
 
 ---
+_This post is part of our series about building my startup Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on_ [_Medium_](https://medium.com/sound-off)_._
+
 It’s really simple to reserve the name of your iPhone app in the Apple app. Years ago there used to be [a ‘bad guy’ way](https://blog.salsitasoft.com/apples-new-app-name-reservation-policy/) of doing this, involving rejecting the app yourself so a name could be preserved indefinitely — but Apple has since changed their policies about name reservation.
 
 There used to be an expiry limit for reserving your app name — initially, it was 90 days, then it rose to 120 days and in 2015 to 180 days — but that time limit has now been removed.
@@ -24,7 +26,7 @@ You can make the Developer account using your normal Apple ID. Being part of the
 
 This is what App Store Connect looks like:
 
-![](/img/app-store.png)  
+![](/img/app-store.png)
 
 App Store Connect (previously called iTunes Connect) is the place where you manage all your apps sold on the App Store, whether they’re for iPhone, iPad, Mac, Apple Watch, or Apple TV. It’s where you to submit and manage your apps, invite your users to your TestFlight beta, add your tax and banking information, and more.
 
