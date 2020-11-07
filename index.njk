@@ -2,19 +2,26 @@
 layout: layouts/home.njk
 title: Home
 eleventyNavigation:
-  key: Home
+  key: Start Here
   order: 1
 ---
 
 <h1>Paavan’s Blog</h1>
 
-<p class="lead">Hey! Welcome to my blog.</p>
+<p>Hey! Welcome to my blog. I write on a variety of topics including design, startups, philosophy, UX, magic and gardening.</p>
 
-<p>I write on a variety of topics including design, startups, philosophy, UX, magic and gardening.</p>
+<p>These are the most popular posts :</p>
+
+ <ul class="postlist">
+    <li class="postlist-item"><a class="postlist-link" href="/posts/the-loss-of-certainty/">The loss of certainty</a> <time class="postlist-date" datetime="2020-05-28">28 May 2020</time></li>
+    <li class="postlist-item"><a class="postlist-link" href="/posts/these-are-my-favourite-personal-websites/">These are my favourite personal websites</a> <time class="postlist-date" datetime="2020-05-14">14 May 2020</time></li>
+    <li class="postlist-item"><a class="postlist-link" href="/posts/hills-the-best-framework-for-determining-where-to-go/">Hills: the best framework for determining where to go</a> <time class="postlist-date" datetime="2019-11-25">25 Nov 2019</time></li>
+  </ul>
+
 <p>Here are the most recent posts:</p>
 
 {% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
-<p><em><a href="{{ '/posts/' | url }}">See all posts</a>.</em></p>
+<p><a href="{{ '/posts/' | url }}">Click here to see all posts</a>.</p>

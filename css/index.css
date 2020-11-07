@@ -198,7 +198,6 @@ ol li, ul li {
 .postlist-item {
   counter-increment: start-from -1;
     list-style: none;
-
 }
 .postlist-item:before {
   display: inline-block;
@@ -225,7 +224,9 @@ ol li, ul li {
 .tmpl-home .postlist-link {
   font-size: 1.1875em; /* 19px /16 */
 }
-
+ul .postlist-item::before {
+    content: '● ';
+  }
 
 /* Tags */
 
