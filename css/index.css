@@ -48,6 +48,7 @@ h1, h2, h3 {
   font-weight: 600;
   line-height: 80%;
   padding-top: 3rem;
+  scroll-margin-top: 100px;
 }
 
 h2, h3 {
@@ -172,13 +173,6 @@ pre {
   background-color: #902f2f;
 }
 
-/* Header */
-/*.home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
-}
 .home :link:not(:hover) {
   text-decoration: none;
 }*/
@@ -462,3 +456,8 @@ body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
     img {
       max-width: 100%;
     }
+    h1, h2, h3 {
+      scroll-margin-top: 10px;
+    }
+
+  }
