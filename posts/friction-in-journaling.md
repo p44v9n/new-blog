@@ -12,17 +12,17 @@ We're building an app called [Sound Off](https://medium.com/sound-off). It allow
 
 But to me, the biggest benefit of audio journaling, from a product/app development perspective, is that it **reduces friction.**
 
-Friction in the world of user experience (UX) is defined as:
+Friction in the world of user experience (UX) is [defined as](https://www.dtelepathy.com/blog/business/strategic-ux-the-art-of-reducing-friction):
 
 > …interactions that inhibit people from intuitively and painlessly achieving their goals within a digital interface
 
-Usually, discussions about reducing friction are centred within the digital world. 'Creating a frictionless experience' refers to making an app, that is initially difficult to use, slightly easier to use. This is done by extensive usability testing, seeing where users trip up, making changes to fix it, and testing it again to confirmed its worked. Changes often focus on readjusting layouts, re-ordering options, moving button placement, and so on.
+Usually, discussions about reducing friction are centred within the digital world. 'Creating a frictionless experience' refers to making an app, that is initially difficult to use, slightly easier to use. This is done by extensive [usability testing](https://medium.com/p/c34034150234/), seeing where users trip up, making changes to fix it, and testing it again to confirmed its worked. Changes often focus on readjusting layouts, re-ordering options, moving button placement, and so on.
 
-(Sometimes, it can also be a good thing to re-introduce friction. One recent example is Twitter's choice to flag and hide misinformation tweeted by President Trump.)
+(Sometimes, it can also be a [good thing to re-introduce friction](https://uxplanet.org/when-friction-in-design-is-good-for-ux-e2dd82cfab67). One recent example is Twitter's choice to flag and hide misinformation tweeted by President Trump.)
 
-With Sound Off, however, we're making a 'greenfield' app, so there are no earlier versions to compare to. Instead, we're trying to reduce friction when compared to keeping a physical journal.
+With Sound Off, however, we're making a 'greenfield' app, so there are no earlier versions to compare to. **Instead, we're trying to reduce friction when compared to keeping a physical journal**.
 
-We all know that journaling can help our all-round wellbeing. In fact, just recently, The Guardian, in association with the UK Government, listed it as the second-best way to maintain wellbeing over winter. But getting started journaling is really hard: you have to find the right notebook, find the right pen, and think about syntax and punctuation and vocabulary.
+We all know that journaling can help our all-round wellbeing. In fact, just recently, [The Guardian, in association with the UK Government, listed it as the second-best way to maintain wellbeing over winter](https://www.theguardian.com/all-in-all-together/2020/nov/20/10-ways-to-maintain-all-round-wellbeing-this-winter). **But getting started journaling is really hard**: you have to find the right notebook, find the right pen, and think about syntax and punctuation and vocabulary.
 
 Audio journaling removes the need for all that and means you can get started quickly and easily.
 
