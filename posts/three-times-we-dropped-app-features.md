@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-date: 2020-12-18T14:59:25Z
+date: 2020-12-16T14:59:25Z
 tags:
 - Sound Off
 title: Three times we dropped app features
