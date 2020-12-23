@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-date: 2020-07-02T09:15:44Z
+date: 2020-07-02T09:15:44.000+00:00
 tags:
 - Design
 title: Visions 2020
@@ -22,4 +22,4 @@ Lastly, I covered two new strategies to make a vision statement that _does_ hit 
 
 You can watch a recording of the talk [here](https://youtu.be/Cm3jzSgP6is?t=215), as well as watching the other two great talks from that evening: Susana Lopes speaking on the State of Product, and Joe Rinaldi Johnson on building health-tech products.
 
-<iframe src="https://www.youtube.com/embed/Cm3jzSgP6is?rel=0&start=215" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%;height: 45%;"></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/448519462?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
