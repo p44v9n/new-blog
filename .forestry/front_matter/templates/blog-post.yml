@@ -56,6 +56,16 @@ fields:
   type: boolean
   label: Was this posted elsewhere?
   description: Set to true if not originally posted here.
+- name: canonical-name
+  type: text
+  config:
+    required: false
+  label: Name of publication
+  description: What's the name of the publication or website where this originally
+    was published?
+  showOnly:
+    field: elsewhere
+    value: true
 - name: canonical
   type: text
   config:
