@@ -7,6 +7,20 @@ darkmodecaption: False
 
 <h1>{{ title }}</h1>
 
-{%- if date -%} <p><em>Published on {{ date | readableDate }}.<br />Reading time: <strong>{{ content | readingTime }}</strong>.</em></p> {%- endif -%}
+{%- if date -%} <p><em>Published on {{ date | readableDate }}. Reading time: <strong>{{ content | readingTime }}</strong>.</em></p> {%- endif -%}
+
+
+{%- if "Sound Off" in tags -%}
+
+<p><em><a href="{{ canonical }}">This is part of a series about building Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on Medium.</a></em></p>
+
+{%- elif elsewhere -%}
+
+<p><em><a href="{{ canonical }}">Originally published in {{ canonicalname }}.</a></em></p>
+
+{% endif %}
+
+
+<hr />
 
 {{ content | safe }}

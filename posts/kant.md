@@ -4,9 +4,12 @@ title: How Kant solved one of the greatest dilemmas
 description: An overview to Kant's theory of cognition
 tags: Philosophy
 date: 2018-08-27
+
 ---
 
-*This blogpost was first published on the [u2tuition blog](https://www.u2tuition.com/blog/2018/8/16/a-philosophy-students-must-read-how-immanuel-kant-solved-one-of-the-greatest-dilemmas-of-all-human-thought-and-how-it-has-impacted-all-knowledge-since). If you want to learn more about Kant, I recommend watching or listening to [this lecture series by Dan Robinson](https://podcasts.ox.ac.uk/series/kants-critique-pure-reason).*
+*This blogpost was first published on the [u2tuition blog](https://www.u2tuition.com/blog/). If you want to learn more about Kant, I recommend watching or listening to [this lecture series by Dan Robinson](https://podcasts.ox.ac.uk/series/kants-critique-pure-reason).*
+
+***
 
 Immanuel Kant was a German philosopher who was born in 1724 and lived until 1804. He was also one of the most important philosophers who has ever lived. His contributions to the study of metaphysics (questions relating to the nature of reality) and the study epistemology (questions relating to knowledge) have had a profound influence on all philosophers who came after him.
 

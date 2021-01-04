@@ -4,10 +4,8 @@ description: An overview of the role of a facilitator in a workshop
 date: 2019-05-07
 tags: Design
 layout: layouts/post.njk
-canonical: https://medium.com/@p44v9n/facilitation-skills-101-5408636213ae
 ---
 
-*[This post was originally published on Medium.](https://medium.com/@p44v9n/facilitation-skills-101-5408636213ae)*
 
 In this article I cover (*i*) what the role of a facilitator is, (*ii*) how to prepare for a session where you are facilitating, (*iii*) what to do during the session and (*iv*) what to do after the session.
 

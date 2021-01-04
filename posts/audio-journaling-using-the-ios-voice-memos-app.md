@@ -6,6 +6,7 @@ tags:
 title: Audio journaling using the iOS Voice Memos app
 description: Looking at some problems we've found when using it.
 canonical: https://medium.com/sound-off/whats-the-best-audio-journal-app-bf3dc962a2d7
+elsewhere: true
 
 ---
 Journaling is [scientifically proven to improve overall wellbeing and quality of life](https://medium.com/sound-off/five-reasons-science-says-you-should-journal-c0d35d889f2f). Its a small, achievable task that can lead to a big impact.

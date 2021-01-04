@@ -7,9 +7,10 @@ title: The loss of certainty
 description: Lots of things are vanishing. Our collective idea of certainty is the
   latest.
 canonical: https://nobodyknows.us/blogs/magic/the-certainty-of-magic
+elsewhere: true
+canonicalname: 'Nobody Knows'
 
 ---
-[_This post first appeared on the Nobody Knows blog._](https://nobodyknows.us/blogs/magic/the-certainty-of-magic)
 
 [I recently wrote a book called VANISH.](https://www.kickstarter.com/projects/p44v9n/make-100-vanish-limited-edition-book/) The book breaks down what a vanish is from a magician’s perspective. It also explores the cultural, artistic and philosophical interpretations of making something disappear. I wrote the bulk of it before the pandemic had really started to affect our lives. We’ve now been in lockdown for a few months, and so much of our normal ways of living have changed drastically. Lots that we used to take for granted has gone.
 

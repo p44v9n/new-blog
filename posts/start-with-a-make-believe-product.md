@@ -8,7 +8,6 @@ description: Aka, the Gospel of thinking in MVPs.
 canonical: https://medium.com/sound-off/start-with-a-make-believe-product-873c5ebb643b
 
 ---
-_This post is part of our series about building my startup Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on_ [_Medium_](https://medium.com/sound-off)_._
 
 A frequently recommended book for all entrepreneurs is [_The Lean Startup_ by Eric Ries](https://medium.com/@tdevroome/book-summary-the-lean-startup-2113c0cf4289). It’s over 300 pages long.
 

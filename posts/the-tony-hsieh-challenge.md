@@ -6,9 +6,10 @@ tags:
 title: The Tony Hsieh challenge
 description: What can you create that will change the world?
 canonical: https://uxdesign.cc/the-tony-hsieh-challenge-63c374877b6
+elsewhere: true
+canonicalname: 'UX Collective'
 
 ---
-_Originally posted in UX Colleective_ [_here_](https://uxdesign.cc/the-tony-hsieh-challenge-63c374877b6)_._
 
 Tony Hsieh, the entrepreneur behind one of the earliest internet startups, tragically died on Friday, aged 46. He died on Friday “peacefully and surrounded by family”, according to a statement from DTP Companies, an organisation he founded in 2012 to revitalise downtown Las Vegas.
 

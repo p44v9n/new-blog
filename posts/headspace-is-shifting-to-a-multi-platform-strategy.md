@@ -3,14 +3,13 @@ layout: layouts/post.njk
 date: 2020-12-14T15:03:34Z
 tags:
 - Startup
-title: Headspace's multi-platform strategy
+title: Headspace’s multi-platform strategy
 description: Here’s where their new direction is taking them
 canonical: https://medium.com/better-marketing/headspace-is-shifting-to-a-multi-platform-strategy-4a9993504c14
+elsewhere: true
+canonicalname: 'Better Marketing'
 
 ---
-[_Originally posted in Better Marketing_](https://medium.com/better-marketing/headspace-is-shifting-to-a-multi-platform-strategy-4a9993504c14)_._
-
-***
 
 If you haven’t heard of Headspace (where have you been?), it’s a meditation app. And more than that: It’s one of the best meditation apps that exists.
 

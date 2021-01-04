@@ -7,6 +7,8 @@ title: These are my favourite personal websites
 description: A quick curated roundup of my top sixteen personal / portfolio websites
   from developers and product designers.
 canonical: https://uxdesign.cc/sixteen-sick-portfolios-4159b3e2c235/
+elsewhere: true
+canonicalname: 'UX Collective'
 
 ---
 I love looking at personal / portfolio websites for inspiration. Unlike company or agency websites, personal websites often have a lot more personality and creativity. I've been collecting a folder of bookmarks of my favourite ones and wanted to share.

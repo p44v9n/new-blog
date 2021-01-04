@@ -8,7 +8,6 @@ description: An introduction to low-fidelity app design.
 canonical: https://medium.com/sound-off/we-love-low-fidelity-612e3b5e1a90
 
 ---
-_This post is part of our series about building my startup Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on_ [_Medium_](https://medium.com/sound-off)_._
 
 If you’re building an app, you’ve got to start out low-fidelity. And no, I don’t mean [low-fi hip hop beats](https://youtu.be/2GeZYRtGHPc?t=182). I mean low-fidelity _app screens_.
 

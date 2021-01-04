@@ -6,9 +6,10 @@ tags:
 title: The big mistake Quibi made
 description: Quibi's shutting down. They made one big mistake. Here's what it was.
 canonical: https://uxdesign.cc/the-big-mistake-quibi-made-f2d066495e20
+elsewhere: true
+canonicalname: 'UX Collective'
 
 ---
-_Originally posted in UX Collective_ [_here_](https://uxdesign.cc/the-big-mistake-quibi-made-f2d066495e20)_._
 
 Quibi is shutting down.
 

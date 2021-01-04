@@ -6,11 +6,10 @@ tags:
 title: Become a business-aware designer
 description: Five things you need to know to have a bigger impact.
 canonical: https://uxdesign.cc/become-a-business-aware-designer-in-2021-91acbcdc583e
+elsewhere: true
+canonicalname: UX Collective
 
 ---
-[_Originally published in UX Collective._](https://uxdesign.cc/become-a-business-aware-designer-in-2021-91acbcdc583e)
-
-***
 
 In 2021, design is no longer an afterthought. The popularity of [ideation sessions](https://www.fastcompany.com/3057076/google-ventures-on-how-sketching-can-unlock-big-ideas) and [design sprints](https://www.gv.com/sprint/), programs like [Stanford’s D.School](https://dschool.stanford.edu/) and frameworks like [IBM’s Enterprise Design](https://www.ibm.com/design/thinking/) have meant that ‘_design_’ is being seen as a required input to get a competitive edge.
 

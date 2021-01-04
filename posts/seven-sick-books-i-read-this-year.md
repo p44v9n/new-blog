@@ -7,9 +7,10 @@ tags:
 - Design
 date: 2019-12-23T00:00:00.000+00:00
 canonical: https://medium.com/swlh/seven-sick-books-i-read-this-year-fa6c67fcd19f
+elsewhere: true
+canonicalname: 'Bootcamp'
 
 ---
-[_This post was originally published in The Startup._](https://medium.com/swlh/seven-sick-books-i-read-this-year-fa6c67fcd19f)
 
 These are the seven books:
 

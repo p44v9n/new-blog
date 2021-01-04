@@ -6,9 +6,10 @@ tags:
 title: Get started with Variants in Figma
 description: An introduction to the latest feature in Figma.
 canonical: https://uxdesign.cc/all-you-need-to-know-to-start-using-variants-in-figma-e05915c424d6
+elsewhere: true
+canonicalname: 'UX Collective'
 
 ---
-_Originally written for_ [_UX Collective_](https://uxdesign.cc/all-you-need-to-know-to-start-using-variants-in-figma-e05915c424d6)_._
 
 Figma released an update last week to bring the Variants feature to everyone. Variants were first announced back in September, at Config Europe 2020. They’re now available to everyone using Figma in-browser or on the Desktop app.
 

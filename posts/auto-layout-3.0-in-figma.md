@@ -7,6 +7,8 @@ title: Auto Layout 3.0 in Figma
 description: A look at the expected new features from Figma's latest update to Auto
   Layout.
 canonical: https://uxdesign.cc/what-to-expect-from-autolayout-3-0-in-figma-74d9e33c03a1
+elsewhere: true
+canonicalname: 'UX Collective'
 
 ---
 Back at [Config Europe 2020,](https://www.figma.com/blog/config-europe-2020-new-feature-announcements/) the Figma team announced a new update to Auto Layout, which is set to be released in the next two weeks. As with all Figma updates, when the changes are live, it’s immediately available to everyone, both in-browser and in their desktop apps.
