@@ -20,6 +20,30 @@ fields:
   name: description
   label: Description
   description: Describe what the post is about in a setence
+- name: tags
+  type: select
+  default: Personal
+  config:
+    required: true
+    options:
+    - Design
+    - Startup
+    - Meditation
+    - Sound Off
+    - Personal
+    - Magic
+    - Philosophy
+    - Gardening
+    - Dev
+    - Books
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: 'Choose one of the following: Design / Personal / Magic / Philosophy
+    / Dev / Startup / Books / Meditation'
 - type: datetime
   name: date
   label: Published Date
@@ -28,12 +52,6 @@ fields:
     required: true
     date_format: DD/MM/YYYY
   default: now
-- name: tags
-  type: tag_list
-  default: []
-  label: Category
-  description: 'Choose one of the following: Design / Personal / Magic / Philosophy
-    / Dev / Startup / Books / Meditation'
 - name: elsewhere
   type: boolean
   label: Was this posted elsewhere?
