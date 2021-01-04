@@ -34,13 +34,26 @@ fields:
   label: Category
   description: 'Choose one of the following: Design / Personal / Magic / Philosophy
     / Dev / Startup / Books / Meditation'
+- name: elsewhere
+  type: boolean
+  label: Was this posted elsewhere?
+  description: Set to true if not originally posted here.
 - name: canonical
   type: text
   config:
     required: false
-  description: If this is a duplicate of a post somewhere else. Must be a URL as this
-    gets added as canonical URL for SEO purposes.
+  description: If this is a duplicate of a post somewhere else. Must be a URL. (This
+    gets added as a meta tag canonical URL for SEO purposes.)
   label: Location originally posted
+  showOnly:
+    field: elsewhere
+    value: true
+- name: socialimage
+  type: file
+  config:
+    maxSize: 64
+  label: Social sharing image
+  description: A 1200x630px image used on social sharing websites
 pages:
 - drafts/attention-in-design.md
 - drafts/don-t-make-me-think-is-no-longer-enough.md
