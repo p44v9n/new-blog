@@ -3,7 +3,7 @@ layout: layouts/post.njk
 date: 2020-12-14T15:03:34Z
 tags:
 - Startup
-title: Headspace Is Shifting to a Multi-Platform Strategy
+title: Headspace's multi-platform strategy
 description: Here’s where their new direction is taking them
 canonical: https://medium.com/better-marketing/headspace-is-shifting-to-a-multi-platform-strategy-4a9993504c14
 
