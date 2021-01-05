@@ -9,8 +9,7 @@ darkmodecaption: False
 
 {%- if date -%} <p><em>Published on {{ date | readableDate }}. Reading time: <strong>{{ content | readingTime }}</strong>.</em></p> {%- endif -%}
 
-
-{%- if "Sound Off" in tags -%}
+{%- if soundOff -%}
 
 <p><em><a href="{{ canonical }}">This is part of a series about building Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on Medium.</a></em></p>
 

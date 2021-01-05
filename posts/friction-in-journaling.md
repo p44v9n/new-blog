@@ -4,9 +4,9 @@ date: 2020-12-02T14:18:49Z
 tags:
 - Sound Off
 title: Friction in journaling
+soundOff: true
 description: Our way of making journaling easy again.
 canonical: https://medium.com/sound-off/making-journaling-easy-again-3dad70d39d68
-
 ---
 We're building an app called [Sound Off](https://medium.com/sound-off). It allows you to record journal entries using your voice. My co-founders Rory and Elly have written lots about the benefits of keeping a voice journal, and the psychological principles behind it.
 
