@@ -7,6 +7,10 @@ sections:
 - type: document
   path: about/index.md
   label: About Paavan
+- type: document
+  path: _includes\_footer.njk
+  label: Footer
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
