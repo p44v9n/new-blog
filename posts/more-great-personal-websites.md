@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 tags: Design
-date: 2021-01-04T21:46:56.000+00:00
+date: 2020-12-29T21:46:56Z
 title: More great personal websites
 description: 11 incredible personal websites and portfolios for inspiration.
 elsewhere: true
@@ -9,6 +9,7 @@ canonicalname: Bootcamp
 canonical: https://medium.com/design-bootcamp/incredible-portfolios-to-inspire-you-34fb5069f1b3
 socialimage: ''
 canonical-name: Bootcamp
+soundOff: false
 
 ---
 ![](/img/portfolios2.png "A screenshot of the eleven websites listed.")
