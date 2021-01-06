@@ -1,16 +1,16 @@
 ---
 layout: layouts/post.njk
 date: 2020-10-14T17:19:00.000+00:00
-tags:
-- Sound Off
+tags: Design
 soundOff: true
 title: Should you build your app idea?
 description: ''
 canonical: https://medium.com/sound-off/should-you-build-your-app-idea-4fbc97c777fa
+elsewhere: false
+canonical-name: ''
+socialimage: ''
 
 ---
-_This post is part of our series about building my startup Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on_ [_Medium_](https://medium.com/sound-off)_._
-
 I haven't posted here since August, when I wrote about [leaving my job to start a startup](https://paavanblog.com/posts/i-quit-my-job.here-s-what-s-next/ ). The last few weeks have been incredibly busy — but now everything's under way and in motion, we're settling into more of a routine, and working hard to get our app ready for launch.
 
 Our app? It's called Sound Off. In short, it's a mindfulness voice notes app. You hit record and talk about what's on your mind, what's going on in your life, what happened to you that day, and so on.
