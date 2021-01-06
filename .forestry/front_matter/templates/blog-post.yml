@@ -19,7 +19,11 @@ fields:
 - type: text
   name: description
   label: Description
-  description: Describe what the post is about in a setence
+  description: Describe what the post is about in a setence. The description should
+    be at least 100 characters long.
+  config:
+    min: 75
+    max: 200
 - name: tags
   type: select
   default: Personal
