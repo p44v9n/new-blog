@@ -1,16 +1,16 @@
 ---
 layout: layouts/post.njk
-date: 2020-10-28T15:28:01Z
-tags:
-- Sound Off
+date: 2020-10-28T15:28:01.000+00:00
+tags: Design
 soundOff: true
 title: Reserve the name of your app on the iOS app store
 description: A quick guide to reserving the name of your app on the app store
 canonical: https://medium.com/sound-off/how-to-reserve-the-name-of-your-app-2752c0a4e91b
+elsewhere: false
+canonical-name: ''
+socialimage: ''
 
 ---
-_This post is part of our series about building my startup Sound Off. You can see all our posts, including from co-founders Rory & Elly, over on_ [_Medium_](https://medium.com/sound-off)_._
-
 It’s really simple to reserve the name of your iPhone app in the Apple app. Years ago there used to be [a ‘bad guy’ way](https://blog.salsitasoft.com/apples-new-app-name-reservation-policy/) of doing this, involving rejecting the app yourself so a name could be preserved indefinitely — but Apple has since changed their policies about name reservation.
 
 There used to be an expiry limit for reserving your app name — initially, it was 90 days, then it rose to 120 days and in 2015 to 180 days — but that time limit has now been removed.
