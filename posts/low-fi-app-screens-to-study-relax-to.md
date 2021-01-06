@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-11-04T15:32:30Z
 tags:
 - Sound Off
+soundOff: true
 title: Low-fi app screens to study/relax to
 description: An introduction to low-fidelity app design.
 canonical: https://medium.com/sound-off/we-love-low-fidelity-612e3b5e1a90

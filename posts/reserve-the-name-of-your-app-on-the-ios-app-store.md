@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-10-28T15:28:01Z
 tags:
 - Sound Off
+soundOff: true
 title: Reserve the name of your app on the iOS app store
 description: A quick guide to reserving the name of your app on the app store
 canonical: https://medium.com/sound-off/how-to-reserve-the-name-of-your-app-2752c0a4e91b

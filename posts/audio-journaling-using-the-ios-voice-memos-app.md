@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-12-09T15:35:11Z
 tags:
 - Sound Off
+soundOff: true
 title: Audio journaling using the iOS Voice Memos app
 description: Looking at some problems we've found when using it.
 canonical: https://medium.com/sound-off/whats-the-best-audio-journal-app-bf3dc962a2d7

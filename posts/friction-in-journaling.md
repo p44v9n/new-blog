@@ -1,13 +1,14 @@
 ---
 layout: layouts/post.njk
 date: 2020-12-02T14:18:49.000+00:00
-tags: Design
+tags:
+ - Sound Off
 title: Friction in journaling
 soundOff: true
 description: Our way of making journaling easy again.
 canonical: https://medium.com/sound-off/making-journaling-easy-again-3dad70d39d68
 elsewhere: true
-canonical-name: ''
+canonical-name: 'Sound Off'
 socialimage: ''
 
 ---

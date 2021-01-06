@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-10-14T17:19:00.000+00:00
 tags:
 - Sound Off
+soundOff: true
 title: Should you build your app idea?
 description: ''
 canonical: https://medium.com/sound-off/should-you-build-your-app-idea-4fbc97c777fa

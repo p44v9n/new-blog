@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-12-16T14:59:25Z
 tags:
 - Sound Off
+soundOff: true
 title: Three times we dropped app features
 description: A lookback at our focus on MVP during app development
 canonical: https://medium.com/sound-off/3-times-we-pulled-app-features-5d64be2f82ad

@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-11-11T15:23:08Z
 tags:
 - Sound Off
+soundOff: true
 title: Testing your startup idea
 description: The importance of testing, and three way we tested Sound Off.
 canonical: https://medium.com/sound-off/testing-101-bf5caafc3dee

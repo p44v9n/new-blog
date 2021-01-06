@@ -3,6 +3,7 @@ layout: layouts/post.njk
 date: 2020-10-20T17:03:32.000+00:00
 tags:
 - Sound Off
+soundOff: true
 title: Start with a make-believe product
 description: Aka, the Gospel of thinking in MVPs.
 canonical: https://medium.com/sound-off/start-with-a-make-believe-product-873c5ebb643b
