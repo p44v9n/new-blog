@@ -19,7 +19,11 @@ fields:
 - type: text
   name: description
   label: Description
-  description: Describe what the post is about in a setence
+  description: Describe what the post is about in a setence. The description should
+    be at least 100 characters long.
+  config:
+    min: 75
+    max: 200
 - name: tags
   type: select
   default: Personal
@@ -98,6 +102,7 @@ pages:
 - drafts/website-teardown.md
 - drafts/what-i-learnt-from-my-fringe-show.md
 - posts/audio-journaling-using-the-ios-voice-memos-app.md
+- posts/audio-journaling-vs-bullet-journaling.md
 - posts/auto-layout-3.0-in-figma.md
 - posts/become-a-business-aware-designer.md
 - posts/do-u-x-believe-in-magic.md

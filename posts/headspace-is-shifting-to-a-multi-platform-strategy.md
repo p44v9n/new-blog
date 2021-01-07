@@ -1,16 +1,17 @@
 ---
 layout: layouts/post.njk
-date: 2020-12-14T15:03:34Z
-tags:
-- Startup
+date: 2020-12-14T15:03:34.000+00:00
+tags: Design
 title: Headspace’s multi-platform strategy
 description: Here’s where their new direction is taking them
 canonical: https://medium.com/better-marketing/headspace-is-shifting-to-a-multi-platform-strategy-4a9993504c14
 elsewhere: true
-canonicalname: 'Better Marketing'
+canonicalname: Better Marketing
+soundOff: false
+canonical-name: Better Marketing
+socialimage: "/img/social-headspace-strategy.jpg"
 
 ---
-
 If you haven’t heard of Headspace (where have you been?), it’s a meditation app. And more than that: It’s one of the best meditation apps that exists.
 
 In the last decade, in the Western world, meditating has evolved from being seen as a mystical, zany, and quirky thing to being seen as something incredibly useful, widely adopted, and practiced by most successful people. Headspace has been at the forefront of that change.
