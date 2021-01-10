@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^about/?$ https://paavandesign.com/about/
+RewriteRule ^allposts/?$ https://paavandesign.com/blog/ 
+RewriteRule ^tags/?$ https://paavandesign.com/blog/
+RewriteRule ^posts/(.*)/?$ https://paavandesign.com/blog/$1 [R=301,L,NC]
+RewriteRule ^(.*)$ https://paavandesign.com/blog/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} ^paavanblog.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.paavanblog.com [NC]
