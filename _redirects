@@ -6,3 +6,4 @@
 /tags        https://paavandesign.com/blog/               301!
 /posts/*     https://paavandesign.com/blog/:splat         301!
 /            https://paavandesign.com/blog/               301!
+/posts/headspace-is-shifting-to-a-multi-platform-strategy/  https://paavandesign.com/blog/headspaces-multi-platform-strategy/ 301!
