@@ -40,6 +40,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+    eleventyConfig.addPassthroughCopy(".htcaccess");
+
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
