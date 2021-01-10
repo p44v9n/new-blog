@@ -1,0 +1,7 @@
+# Redirects from what the browser requests to what we serve
+
+/about       https://paavandesign.com/about/
+/allposts    https://paavandesign.com/blog/
+/tags        https://paavandesign.com/blog/
+/posts/*     https://paavandesign.com/blog/:splat
+/            https://paavandesign.com/blog/
